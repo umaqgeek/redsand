@@ -1,0 +1,1073 @@
+[05-May-2015 16:22:17 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function update_user() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 844
+[05-May-2015 16:42:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function update_user() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 844
+[05-May-2015 16:46:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function update_user() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 844
+[05-May-2015 16:47:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function update_user() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 844
+[01-Jun-2015 15:28:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:28:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:29:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:38:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:41:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:42:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:45:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:50:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:51:36 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 15:56:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:03:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:10:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:11:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:12:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:12:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 16:13:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::checkICNumber() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 955
+[01-Jun-2015 19:12:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:13:20 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:18:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:22:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:23:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:23:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:23:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:24:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:30:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:31:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:31:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:52 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:52 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:32:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:35:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:36:41 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:37:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:37:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 931
+[01-Jun-2015 19:40:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[01-Jun-2015 21:59:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[01-Jun-2015 22:24:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[01-Jun-2015 22:27:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[02-Jun-2015 00:23:47 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[02-Jun-2015 00:25:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[02-Jun-2015 00:31:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 933
+[02-Jun-2015 10:46:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 10:50:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 11:09:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 928
+[02-Jun-2015 11:09:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 928
+[02-Jun-2015 11:10:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function _prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 928
+[02-Jun-2015 11:12:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 11:13:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 11:15:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 11:18:05 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 937
+[02-Jun-2015 11:19:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[02-Jun-2015 11:20:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[02-Jun-2015 11:23:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[02-Jun-2015 11:23:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[02-Jun-2015 11:24:47 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[02-Jun-2015 11:27:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::_prep3781_password2024() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 935
+[11-Jun-2015 17:14:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[11-Jun-2015 17:14:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[11-Jun-2015 17:14:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[11-Jun-2015 17:15:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[11-Jun-2015 17:15:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[11-Jun-2015 17:16:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/dinarpa1/public_html/application/controllers/c_mail.php on line 107
+[30-Jun-2015 12:32:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<' in /home/dinarpa1/public_html/application/views/v_summary.php on line 166
+[22-Oct-2015 16:11:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ':' in /home/dinarpa1/public_html/application/views/faq.php on line 206
+[22-Oct-2015 16:11:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ':' in /home/dinarpa1/public_html/application/views/faq.php on line 206
+[03-Nov-2015 10:36:56 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 414
+[03-Nov-2015 10:37:56 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 414
+[03-Nov-2015 10:42:55 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 414
+[03-Nov-2015 10:42:57 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 414
+[03-Nov-2015 10:42:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 414
+[03-Nov-2015 10:46:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/views/v_viewMember2.php on line 113
+[03-Nov-2015 15:53:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php:4955
+Stack trace:
+#0 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4447): Grocery_CRUD->get_table()
+#1 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4463): Grocery_CRUD->pre_render()
+#2 /home/dinarpa1/public_html/application/controllers/examples.php(191): Grocery_CRUD->render()
+#3 /home/dinarpa1/public_html/application/controllers/examples.php(166): Examples->offices_management2()
+#4 /home/dinarpa1/public_html/application/controllers/main.php(353): Examples->multigrids()
+#5 [internal function]: Main->user2('1')
+#6 /home/dinarpa1/public_html/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#7 /home/dinarpa1/public_html/index.php(202): require_once('/home/dinarpa1/...')
+#8 {main}
+  thrown in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php on line 4955
+[03-Nov-2015 15:53:46 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php:4955
+Stack trace:
+#0 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4447): Grocery_CRUD->get_table()
+#1 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4463): Grocery_CRUD->pre_render()
+#2 /home/dinarpa1/public_html/application/controllers/examples.php(191): Grocery_CRUD->render()
+#3 /home/dinarpa1/public_html/application/controllers/examples.php(166): Examples->offices_management2()
+#4 /home/dinarpa1/public_html/application/controllers/main.php(353): Examples->multigrids()
+#5 [internal function]: Main->user2('1')
+#6 /home/dinarpa1/public_html/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#7 /home/dinarpa1/public_html/index.php(202): require_once('/home/dinarpa1/...')
+#8 {main}
+  thrown in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php on line 4955
+[03-Nov-2015 15:54:31 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php:4955
+Stack trace:
+#0 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4447): Grocery_CRUD->get_table()
+#1 /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php(4463): Grocery_CRUD->pre_render()
+#2 /home/dinarpa1/public_html/application/controllers/examples.php(191): Grocery_CRUD->render()
+#3 /home/dinarpa1/public_html/application/controllers/examples.php(166): Examples->offices_management2()
+#4 /home/dinarpa1/public_html/application/controllers/main.php(353): Examples->multigrids()
+#5 [internal function]: Main->user2('1')
+#6 /home/dinarpa1/public_html/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#7 /home/dinarpa1/public_html/index.php(202): require_once('/home/dinarpa1/...')
+#8 {main}
+  thrown in /home/dinarpa1/public_html/application/libraries/Grocery_CRUD.php on line 4955
+[03-Nov-2015 16:18:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:20:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:21:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:22:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:22:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:22:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Examples::othrmultigrids() in /home/dinarpa1/public_html/application/controllers/main.php on line 353
+[03-Nov-2015 16:26:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:28:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/nvar.php on line 153
+[03-Nov-2015 16:30:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[03-Nov-2015 16:30:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[03-Nov-2015 16:33:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[03-Nov-2015 16:34:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[03-Nov-2015 16:34:10 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[03-Nov-2015 16:35:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[04-Nov-2015 10:21:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[04-Nov-2015 10:21:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 164
+[04-Nov-2015 10:24:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 148
+[04-Nov-2015 10:25:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 148
+[04-Nov-2015 10:27:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:28:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:35:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:35:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:35:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:41:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:42:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:45:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 10:53:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/nvar.php on line 143
+[04-Nov-2015 15:59:17 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function query() on a non-object in /home/dinarpa1/public_html/application/views/overview.php on line 88
+[04-Nov-2015 16:01:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_assoc() in /home/dinarpa1/public_html/application/views/overview.php on line 92
+[04-Nov-2015 16:04:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_assoc() in /home/dinarpa1/public_html/application/views/overview.php on line 92
+[04-Nov-2015 23:17:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:17:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:17:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:18:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:21:46 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:22:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:45:52 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[04-Nov-2015 23:49:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 156
+[04-Nov-2015 23:50:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 156
+[04-Nov-2015 23:53:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 156
+[04-Nov-2015 23:56:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 156
+[05-Nov-2015 00:03:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 156
+[05-Nov-2015 00:16:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:20:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:21:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:21:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:22:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 161
+[05-Nov-2015 00:23:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:23:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:34:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected $end in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[05-Nov-2015 00:57:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<' in /home/dinarpa1/public_html/application/views/v_table.php on line 86
+[05-Nov-2015 10:55:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[05-Nov-2015 10:55:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[05-Nov-2015 11:04:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_AS in /home/dinarpa1/public_html/application/views/v_table.php on line 99
+[05-Nov-2015 11:05:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_AS in /home/dinarpa1/public_html/application/views/v_table.php on line 99
+[05-Nov-2015 11:07:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_AS in /home/dinarpa1/public_html/application/views/v_table.php on line 99
+[05-Nov-2015 11:07:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_AS in /home/dinarpa1/public_html/application/views/v_table.php on line 99
+[05-Nov-2015 11:07:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_AS in /home/dinarpa1/public_html/application/views/v_table.php on line 99
+[05-Nov-2015 11:21:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/views/v_table.php on line 101
+[05-Nov-2015 15:31:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 139
+[05-Nov-2015 15:31:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 139
+[09-Nov-2015 11:36:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:36:52 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:41:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:49:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:53:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:56:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 11:59:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:02:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:02:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:22:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:25:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:28:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:31:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:33:28 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:34:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:38:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:39:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:43:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 12:54:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 14:09:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 15:01:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 15:01:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 15:01:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 15:05:04 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/models/login_database.php on line 40
+[09-Nov-2015 16:28:07 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::viewUpdate() in /home/dinarpa1/public_html/application/controllers/main.php on line 313
+[11-Nov-2015 10:22:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[11-Nov-2015 10:23:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[11-Nov-2015 10:36:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[11-Nov-2015 10:39:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[11-Nov-2015 10:41:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[11-Nov-2015 10:43:04 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[11-Nov-2015 10:45:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[11-Nov-2015 10:52:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 11:18:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[11-Nov-2015 11:38:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 51
+[11-Nov-2015 11:38:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 51
+[11-Nov-2015 11:48:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 11:48:21 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 11:51:42 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 11:51:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 12:58:05 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 12:58:12 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 12:59:05 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:00:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:00:14 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:00:15 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:01:23 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:03:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:05:22 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:06:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:06:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:09:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 13:11:08 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 14:15:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 14:15:18 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare Main::index() in /home/dinarpa1/public_html/application/controllers/main.php on line 24
+[11-Nov-2015 14:19:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 54
+[11-Nov-2015 14:20:37 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 54
+[11-Nov-2015 15:19:25 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[11-Nov-2015 15:19:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[11-Nov-2015 15:19:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[11-Nov-2015 16:09:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function generate() on a non-object in /home/dinarpa1/public_html/application/views/v_table.php on line 93
+[11-Nov-2015 16:09:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function generate() on a non-object in /home/dinarpa1/public_html/application/views/v_table.php on line 93
+[11-Nov-2015 16:10:15 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:16 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:26 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:27 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:10:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:11:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:15:25 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:15:32 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:21:03 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:21:03 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:21:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:21:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:23:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:24:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:24:41 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:25:25 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:25:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:37:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:38:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[11-Nov-2015 16:39:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:39:14 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:40:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 16:40:14 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[11-Nov-2015 22:00:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:01:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:03:24 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'User_Authentication' not found in /home/dinarpa1/public_html/application/controllers/main.php on line 281
+[11-Nov-2015 22:31:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:31:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:32:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:35:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[11-Nov-2015 22:36:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[12-Nov-2015 09:15:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[12-Nov-2015 09:17:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[12-Nov-2015 09:19:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 09:19:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 09:19:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 10:11:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::where() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[12-Nov-2015 10:11:20 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::where() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[12-Nov-2015 10:13:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[12-Nov-2015 10:13:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 50
+[12-Nov-2015 10:18:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[12-Nov-2015 10:19:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[12-Nov-2015 10:19:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[12-Nov-2015 12:08:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 61
+[12-Nov-2015 12:08:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 61
+[12-Nov-2015 12:10:10 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 68
+[12-Nov-2015 12:10:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 68
+[12-Nov-2015 12:10:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 68
+[12-Nov-2015 12:16:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::save() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 68
+[12-Nov-2015 14:06:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::updateNewProfile() in /home/dinarpa1/public_html/application/controllers/main.php on line 312
+[12-Nov-2015 14:26:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::updateNewProfile() in /home/dinarpa1/public_html/application/controllers/main.php on line 312
+[12-Nov-2015 14:28:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::add() in /home/dinarpa1/public_html/application/controllers/main.php on line 312
+[12-Nov-2015 14:28:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::add() in /home/dinarpa1/public_html/application/controllers/main.php on line 312
+[12-Nov-2015 14:37:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::db() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 76
+[12-Nov-2015 14:40:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::db() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 14:45:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::db() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[12-Nov-2015 14:45:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::db() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 57
+[12-Nov-2015 14:55:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 14:55:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::getTable() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 56
+[12-Nov-2015 16:04:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[12-Nov-2015 16:05:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[12-Nov-2015 16:31:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:32:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:32:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:34:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:35:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/models/login_database.php on line 24
+[12-Nov-2015 16:36:57 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Login_database' not found in /home/dinarpa1/public_html/system/core/Loader.php on line 304
+[12-Nov-2015 16:37:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/models/login_database.php on line 24
+[12-Nov-2015 16:39:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/models/login_database.php on line 24
+[12-Nov-2015 16:41:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:42:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 16:47:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 17:16:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 17:24:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 17:24:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[12-Nov-2015 17:25:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/views/v_table.php on line 162
+[16-Nov-2015 10:55:02 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 59
+[16-Nov-2015 10:55:05 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 59
+[16-Nov-2015 10:55:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getTables() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 59
+[16-Nov-2015 10:55:29 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:55:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:29 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:29 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:32 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:33 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:35 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:39 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:39 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:41 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:41 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:41 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:43 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:44 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:44 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:45 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:46 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:56:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:57:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:57:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 10:57:15 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:13:23 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:13:35 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:13:49 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:13:49 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:19:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:19:07 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:19:29 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[16-Nov-2015 11:19:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[17-Nov-2015 11:05:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 149
+[17-Nov-2015 11:05:46 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 149
+[17-Nov-2015 12:13:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 149
+[17-Nov-2015 12:31:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:31:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:31:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:32:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:32:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:33:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:33:24 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:34:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 12:35:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 114
+[17-Nov-2015 13:58:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/dinarpa1/public_html/application/views/upload_successful.php on line 11
+[17-Nov-2015 15:24:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/gallery.php on line 43
+[17-Nov-2015 15:24:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/gallery.php on line 43
+[17-Nov-2015 15:50:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/dinarpa1/public_html/application/views/upload_successful.php on line 12
+[17-Nov-2015 15:50:46 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 37
+[17-Nov-2015 15:50:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 37
+[17-Nov-2015 15:52:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 37
+[17-Nov-2015 15:54:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 37
+[17-Nov-2015 15:54:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 37
+[17-Nov-2015 16:27:56 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:27:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:37:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:37:04 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:39:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:39:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:45:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:45:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[17-Nov-2015 16:49:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/dinarpa1/public_html/application/models/gallery_model.php on line 10
+[18-Nov-2015 10:40:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Gallery::_checkSession() in /home/dinarpa1/public_html/application/controllers/gallery.php on line 14
+[18-Nov-2015 11:24:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function insert_file() on a non-object in /home/dinarpa1/public_html/application/controllers/gallery.php on line 105
+[18-Nov-2015 11:37:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function insert_file() on a non-object in /home/dinarpa1/public_html/application/controllers/gallery.php on line 105
+[18-Nov-2015 16:47:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:49:46 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:50:00 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:51:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:52:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:53:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[18-Nov-2015 16:54:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[19-Nov-2015 11:40:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 280
+[23-Nov-2015 15:50:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Paginate::menuLevel() in /home/dinarpa1/public_html/application/controllers/paginate.php on line 34
+[24-Nov-2015 10:46:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:46:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:48:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:48:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:49:09 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:49:11 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:49:22 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:49:28 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:50:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:50:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:52:11 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 10:53:05 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[24-Nov-2015 12:47:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/views/page_view.php on line 439
+[24-Nov-2015 13:11:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/views/page_view.php on line 439
+[24-Nov-2015 13:12:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/views/page_view.php on line 439
+[24-Nov-2015 14:46:48 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/views/page_view.php on line 439
+[24-Nov-2015 16:36:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/views/page_view.php on line 439
+[25-Nov-2015 10:50:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::retrives() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 265
+[25-Nov-2015 10:50:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::retrives() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 265
+[25-Nov-2015 10:52:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::retrives() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 265
+[25-Nov-2015 10:53:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::retrives() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 265
+[26-Nov-2015 10:34:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function view() on a non-object in /home/dinarpa1/public_html/application/controllers/gallery.php on line 117
+[26-Nov-2015 13:02:11 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:02:50 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:04:59 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:15:46 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:16:53 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:24:00 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655052 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:25:21 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655051 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2015 13:34:56 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10655052 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Dec-2015 10:25:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::retrive() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 37
+[02-Dec-2015 10:25:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::retrive() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 37
+[02-Dec-2015 10:27:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::retrive() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 37
+[02-Dec-2015 10:27:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::retrive() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 37
+[02-Dec-2015 10:28:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getTables() on a non-object in /home/dinarpa1/public_html/application/controllers/paypage.php on line 48
+[02-Dec-2015 10:31:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::get() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 49
+[02-Dec-2015 10:31:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::get() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 49
+[02-Dec-2015 10:33:21 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::get() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 49
+[02-Dec-2015 10:33:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::get() in /home/dinarpa1/public_html/application/controllers/paypage.php on line 49
+[03-Dec-2015 10:53:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/paginate.php on line 55
+[03-Dec-2015 10:54:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/paginate.php on line 55
+[03-Dec-2015 10:55:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/paginate.php on line 55
+[03-Dec-2015 11:53:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 261
+[03-Dec-2015 11:53:10 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 261
+[08-Dec-2015 12:19:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/controllers/gallery.php on line 121
+[09-Dec-2015 11:05:42 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::viewPic() in /home/dinarpa1/public_html/application/controllers/main.php on line 328
+[09-Dec-2015 12:12:30 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[09-Dec-2015 12:13:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[09-Dec-2015 12:20:08 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::get() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 60
+[09-Dec-2015 15:13:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/views/v_table.php on line 317
+[10-Dec-2015 11:18:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::get_row() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 66
+[10-Dec-2015 13:34:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function make() on a non-object in /home/dinarpa1/public_html/application/controllers/gallery.php on line 126
+[10-Dec-2015 13:40:20 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Image_lib::gaussian_blur() in /home/dinarpa1/public_html/application/controllers/gallery.php on line 133
+[10-Dec-2015 14:35:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Image_lib::gaussian_blur() in /home/dinarpa1/public_html/application/controllers/gallery.php on line 133
+[10-Dec-2015 14:40:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Image_lib::gaussian_blur() in /home/dinarpa1/public_html/application/controllers/gallery.php on line 135
+[10-Dec-2015 14:41:36 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_Image_lib::gaussian_blur() in /home/dinarpa1/public_html/application/controllers/gallery.php on line 135
+[10-Dec-2015 16:45:17 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on a non-object in /home/dinarpa1/public_html/application/views/v_tables.php on line 139
+[10-Dec-2015 16:47:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function result() on a non-object in /home/dinarpa1/public_html/application/views/v_tables.php on line 139
+[14-Dec-2015 11:43:02 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:44:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:44:47 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:48:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:48:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:49:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:49:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:51:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:53:52 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:54:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:54:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:54:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:54:51 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 11:57:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 12:03:25 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 12:06:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 44
+[14-Dec-2015 12:10:49 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 45
+[14-Dec-2015 12:26:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 12:27:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 12:27:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/system/libraries/Table.php on line 179
+[14-Dec-2015 12:33:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 57
+[14-Dec-2015 12:38:56 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 49
+[14-Dec-2015 12:39:35 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 49
+[14-Dec-2015 12:40:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 49
+[14-Dec-2015 12:40:36 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 49
+[14-Dec-2015 13:08:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:10:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:12:07 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:12:41 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:13:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:13:25 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:14:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:14:42 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:15:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:15:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:18:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[14-Dec-2015 13:18:44 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/controllers/paginating.php on line 46
+[15-Dec-2015 11:26:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 62
+[15-Dec-2015 12:21:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:24:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:24:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:27:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:27:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:27:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:31:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:36:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 277
+[15-Dec-2015 12:40:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:40:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:41:55 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:47:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '?' in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:48:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:48:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 12:56:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 14:20:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 14:20:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:03:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:03:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:03:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:04:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:04:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:04:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:05:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[15-Dec-2015 16:05:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 276
+[16-Dec-2015 16:07:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/dinarpa1/public_html/application/models/pagmodel.php on line 13
+[17-Dec-2015 11:45:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:45:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:45:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:46:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:46:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:49:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:49:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:52:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:52:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:53:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:54:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:54:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:54:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:54:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:54:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:55:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:55:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:55:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:56:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:56:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:56:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:56:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 114
+[17-Dec-2015 11:59:25 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare User_Authentication::viewSummary() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 46
+[17-Dec-2015 11:59:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare User_Authentication::viewSummary() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 46
+[17-Dec-2015 12:00:47 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare User_Authentication::viewSummary() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 46
+[17-Dec-2015 16:28:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/userinfo.php on line 66
+[17-Dec-2015 16:30:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/userinfo.php on line 66
+[17-Dec-2015 16:32:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/userinfo.php on line 64
+[17-Dec-2015 16:35:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/userinfo.php on line 63
+[17-Dec-2015 16:35:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:40:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:40:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:41:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:41:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:43:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:43:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:44:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:44:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:44:10 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:44:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/dinarpa1/public_html/application/models/login_database.php on line 31
+[17-Dec-2015 16:49:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::edit() in /home/dinarpa1/public_html/application/controllers/main.php on line 330
+[17-Dec-2015 17:04:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_Authentication::edit() in /home/dinarpa1/public_html/application/controllers/main.php on line 330
+[17-Dec-2015 17:09:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ',' in /home/dinarpa1/public_html/application/controllers/userinfo.php on line 63
+[17-Dec-2015 17:45:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:45:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:46:27 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:47:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:53:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:53:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:54:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:54:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:54:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/controllers/pag.php on line 85
+[17-Dec-2015 17:56:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dinarpa1/public_html/application/views/v_table.php on line 185
+[17-Dec-2015 17:58:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/dinarpa1/public_html/application/models/pagmodel.php on line 13
+[17-Dec-2015 17:59:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/dinarpa1/public_html/application/models/pagmodel.php on line 13
+[17-Dec-2015 19:01:18 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 96
+[17-Dec-2015 19:02:21 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 97
+[17-Dec-2015 19:05:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 97
+[17-Dec-2015 19:06:55 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 111
+[17-Dec-2015 19:06:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 111
+[18-Dec-2015 10:37:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::view_by() in /home/dinarpa1/public_html/application/controllers/pag.php on line 54
+[18-Dec-2015 10:39:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::view_by() in /home/dinarpa1/public_html/application/controllers/pag.php on line 54
+[18-Dec-2015 10:47:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::view_by() in /home/dinarpa1/public_html/application/controllers/pag.php on line 54
+[18-Dec-2015 10:47:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Login_Database::view_by() in /home/dinarpa1/public_html/application/controllers/pag.php on line 54
+[18-Dec-2015 10:56:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function from() on a non-object in /home/dinarpa1/public_html/application/models/login_database.php on line 25
+[18-Dec-2015 11:17:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/views/v_table.php on line 145
+[18-Dec-2015 12:08:28 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 176
+[18-Dec-2015 12:09:14 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 176
+[18-Dec-2015 12:11:35 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 176
+[18-Dec-2015 12:13:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 176
+[18-Dec-2015 15:14:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:17:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:17:45 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:20:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:20:48 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:21:20 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:52:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 15:58:23 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 196
+[18-Dec-2015 16:10:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/views/detailmember.php on line 353
+[18-Dec-2015 16:13:55 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 16:14:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 16:14:46 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 16:15:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 191
+[18-Dec-2015 16:38:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 93
+[18-Dec-2015 16:45:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 93
+[22-Dec-2015 10:57:11 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 164
+[22-Dec-2015 11:07:49 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:10:00 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:10:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:11:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:13:32 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:13:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:15:24 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:21:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:21:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 169
+[22-Dec-2015 11:30:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function retrive() on a non-object in /home/dinarpa1/public_html/application/controllers/pag.php on line 63
+[22-Dec-2015 16:09:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::view() in /home/dinarpa1/public_html/application/controllers/pag.php on line 108
+[22-Dec-2015 16:10:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::view() in /home/dinarpa1/public_html/application/controllers/pag.php on line 108
+[22-Dec-2015 16:11:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::view() in /home/dinarpa1/public_html/application/controllers/pag.php on line 109
+[22-Dec-2015 16:12:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::view() in /home/dinarpa1/public_html/application/controllers/pag.php on line 106
+[22-Dec-2015 16:43:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 16:47:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 16:50:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:52:28 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:52:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:53:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:53:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:53:55 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/dinarpa1/public_html/application/controllers/pag.php on line 65
+[22-Dec-2015 16:57:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 16:59:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function view_by() on a non-object in /home/dinarpa1/public_html/application/controllers/pag.php on line 64
+[22-Dec-2015 17:00:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 17:16:05 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 17:18:40 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function row() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 177
+[22-Dec-2015 17:19:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function row() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 177
+[22-Dec-2015 17:25:29 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[22-Dec-2015 17:27:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 64
+[22-Dec-2015 17:41:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[23-Dec-2015 09:40:45 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:42:27 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:43:52 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:44:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:52:58 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:55:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:56:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:56:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 09:56:38 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:00:05 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:00:20 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:06:22 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:09:28 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:11:34 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:11:41 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare class Main in /home/dinarpa1/public_html/application/controllers/main.php on line 400
+[23-Dec-2015 10:22:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 179
+[23-Dec-2015 10:22:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 179
+[23-Dec-2015 10:39:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method gallery_model::view_by() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 87
+[23-Dec-2015 10:42:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 10:51:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 10:51:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 10:51:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 11:11:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[23-Dec-2015 12:26:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 12:35:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[23-Dec-2015 13:11:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[23-Dec-2015 13:12:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/dinarpa1/public_html/application/models/gallery_model.php on line 21
+[26-Dec-2015 22:21:10 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[26-Dec-2015 22:40:38 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[30-Dec-2015 10:23:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 183
+[30-Dec-2015 10:24:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 179
+[30-Dec-2015 10:26:33 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 183
+[30-Dec-2015 10:27:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dinarpa1/public_html/application/controllers/main.php on line 183
+[30-Dec-2015 10:28:31 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Gallery_model' not found in /home/dinarpa1/public_html/system/core/Loader.php on line 304
+[30-Dec-2015 10:54:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[30-Dec-2015 11:10:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[31-Dec-2015 09:40:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/dinarpa1/public_html/application/views/detailmember.php on line 175
+[31-Dec-2015 10:07:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[31-Dec-2015 10:10:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[31-Dec-2015 10:10:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[31-Dec-2015 10:37:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/views/detailmember.php on line 321
+[31-Dec-2015 10:37:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/views/detailmember.php on line 321
+[31-Dec-2015 11:03:39 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 131
+[01-Jan-2016 02:48:03 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:48:20 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:48:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:49:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:51:13 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:51:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:52:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:54:01 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:54:35 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:55:16 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 02:56:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '[' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 86
+[01-Jan-2016 02:56:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '[' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 86
+[01-Jan-2016 02:59:59 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[01-Jan-2016 03:01:08 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 166
+[01-Jan-2016 03:01:36 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[05-Jan-2016 16:40:28 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 144
+[05-Jan-2016 16:43:22 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 144
+[05-Jan-2016 17:09:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 166
+[05-Jan-2016 17:25:51 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 165
+[05-Jan-2016 17:28:40 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 164
+[06-Jan-2016 16:52:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 87
+[06-Jan-2016 17:39:10 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 165
+[06-Jan-2016 17:41:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dinarpa1/public_html/application/views/v_pic.php on line 169
+[08-Jan-2016 12:22:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 104
+[08-Jan-2016 12:22:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 104
+[08-Jan-2016 12:24:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 104
+[08-Jan-2016 12:24:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 104
+[08-Jan-2016 12:27:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 102
+[08-Jan-2016 12:28:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 102
+[08-Jan-2016 12:29:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 102
+[08-Jan-2016 12:29:24 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 102
+[08-Jan-2016 12:30:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 102
+[08-Jan-2016 12:33:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:34:37 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:34:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:35:28 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:35:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:37:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:37:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:38:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:38:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:38:57 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:39:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:39:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:40:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:41:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:53:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:54:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:54:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:54:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 12:54:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 14:16:44 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 125
+[08-Jan-2016 14:18:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 125
+[08-Jan-2016 14:43:46 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 14:44:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 103
+[08-Jan-2016 14:45:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 104
+[08-Jan-2016 14:47:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/pag.php on line 149
+[08-Jan-2016 14:47:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/dinarpa1/public_html/application/controllers/pag.php on line 149
+[08-Jan-2016 14:58:45 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 91
+[08-Jan-2016 14:58:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 91
+[08-Jan-2016 14:59:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ')' in /home/dinarpa1/public_html/application/controllers/pag.php on line 91
+[08-Jan-2016 16:36:03 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot access empty property in /home/dinarpa1/public_html/application/views/detailmember.php on line 204
+[19-Jan-2016 17:12:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:12:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:13:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:13:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:42:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:42:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 17:54:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 18:07:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 18:09:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 19:33:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 19:36:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 19:39:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 20:46:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:05:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:05:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:05:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:05:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:36:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:41:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 21:53:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:17:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:17:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:21:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:21:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:51:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 22:51:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:09:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Jan-2016 23:10:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 00:25:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 02:15:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 02:24:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 05:49:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 05:49:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 05:53:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 06:36:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 07:46:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 07:55:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 08:31:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:15:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:16:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:16:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:16:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:59:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 10:59:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:46:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:47:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:22 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:22 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:48:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:49:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:49:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:49:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:49:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:51:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:51:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:51:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:51:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 11:51:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 13:11:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 13:11:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 14:00:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 14:03:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 14:06:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 17:45:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 20:02:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:13:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:46:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 21:55:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:22 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 22:19:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:30:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:31:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:58:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Jan-2016 23:59:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 00:53:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 00:53:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 01:33:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 02:04:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 02:35:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Jan-2016 03:13:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Mar-2016 12:36:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getSummary() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 38
+[18-Mar-2016 12:37:28 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'grocery_CRUD_Model' not found in /home/dinarpa1/public_html/application/models/users_join.php on line 3
+[18-Mar-2016 12:37:32 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'grocery_CRUD_Model' not found in /home/dinarpa1/public_html/application/models/users_join.php on line 3
+[18-Mar-2016 12:37:35 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'grocery_CRUD_Model' not found in /home/dinarpa1/public_html/application/models/users_join.php on line 3
+[18-Mar-2016 12:38:43 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'grocery_CRUD_Model' not found in /home/dinarpa1/public_html/application/models/users_join.php on line 3
+[18-Mar-2016 12:39:40 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'grocery_CRUD_Model' not found in /home/dinarpa1/public_html/application/models/users_join.php on line 3
+[18-Mar-2016 12:41:28 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function getSummary() on a non-object in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 40
+[21-Mar-2016 18:00:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/dinarpa1/public_html/application/models/search_model.php on line 79
+[21-Mar-2016 18:02:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/dinarpa1/public_html/application/models/search_model.php on line 74
+[21-Mar-2016 18:02:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/dinarpa1/public_html/application/models/search_model.php on line 74
+[21-Mar-2016 18:03:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/dinarpa1/public_html/application/models/search_model.php on line 74
+[22-Mar-2016 09:07:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/dinarpa1/public_html/application/models/search_model.php on line 74
+[22-Mar-2016 09:35:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function sum() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 49
+[22-Mar-2016 10:08:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected ';' in /home/dinarpa1/public_html/application/views/v_summary.php on line 194
+[22-Mar-2016 11:35:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getState1() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 46
+[22-Mar-2016 11:35:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getState1() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 46
+[22-Mar-2016 11:36:34 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getState3() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 48
+[22-Mar-2016 11:54:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 11:57:13 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 12:14:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:17:28 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:24:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:24:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:28:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:30:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 12:38:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 13:02:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 13:03:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 13:03:24 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 13:03:24 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 14:40:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 14:54:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 15:00:32 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 15:03:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 15:06:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 61
+[22-Mar-2016 15:19:21 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 61
+[22-Mar-2016 15:29:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 15:31:39 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 15:31:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 15:31:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 15:34:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 344
+[22-Mar-2016 15:41:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '*' in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 61
+[22-Mar-2016 16:05:43 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[22-Mar-2016 16:34:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 55
+[24-Mar-2016 09:40:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getStat10() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 58
+[24-Mar-2016 14:56:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 351
+[24-Mar-2016 15:00:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 351
+[25-Mar-2016 12:42:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 351
+[25-Mar-2016 12:43:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 351
+[25-Mar-2016 12:43:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/dinarpa1/public_html/application/models/search_model.php on line 351
+[25-Mar-2016 12:44:59 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/dinarpa1/public_html/application/models/search_model.php on line 451
+[28-Mar-2016 18:01:14 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Search_model::getLaverageBonus() in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 53
+[29-Mar-2016 10:02:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:05:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:05:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:06:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:07:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:07:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:07:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:07:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 10:07:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:47:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:47:35 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:50:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:51:40 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:51:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:51:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:55:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:55:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:55:27 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:59:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 14:59:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:05:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:11:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:11:44 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:11:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:12:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:13:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:14:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 15:19:14 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 355
+[29-Mar-2016 16:51:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dinarpa1/public_html/application/controllers/user_authentication.php on line 370
+[04-Apr-2016 20:58:50 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315205 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Apr-2016 20:59:27 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315205 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Apr-2016 20:59:57 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315175 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Apr-2016 21:00:59 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315175 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Apr-2016 21:03:30 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315175 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Apr-2016 21:06:52 Asia/Kuala_Lumpur] PHP Warning:  POST Content-Length of 10315175 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

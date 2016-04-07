@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+#carousel{
+	width:8000px;
+	}
+	
+#carousel ul {
+	list-style:none;
+	width:8000px;
+	margin:0;
+	padding:0;
+	position:relative;
+}
+
+#carousel li {
+	display:inline;
+	float:left;
+	}
+	
+span
+{
+	color:#FFF;
+}

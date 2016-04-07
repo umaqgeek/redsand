@@ -1,0 +1,36 @@
+.button
+{
+	display:inline-block;
+   	cursor:pointer;
+   	border-radius:4px;
+   	color:#fff;
+   	background-image:-webkit-linear-gradient(#fecc0e,#ffa300);
+   	background-image:linear-gradient(#fecc0e,#ffa300)
+}
+
+.button>i{display:inline-block}
+
+.button:hover
+{
+   	background-image:-webkit-linear-gradient(#fedc5a,#ffa300);
+   	background-image:linear-gradient(#fedc5a,#ffa300);
+   	color:#fff!important
+}
+
+/* blue button  */
+.blue-button
+   {
+   	display:inline-block;
+   	cursor:pointer;
+   	border-radius:4px;
+   	color:#fff;
+   	background-image:-webkit-linear-gradient(#28b3ee,#0287c0);
+   	background-image:linear-gradient(#28b3ee,#0287c0)
+   }
+   .blue-button>i{display:inline-block}
+
+   .blue-button:hover
+   {
+   	background-image:-webkit-linear-gradient(#6fccf4,#0287c0);
+   	background-image:linear-gradient(#6fccf4,#0287c0);color:#fff!important
+   }
