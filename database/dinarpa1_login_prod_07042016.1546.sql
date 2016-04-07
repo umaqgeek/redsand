@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost:3306
--- Generation Time: Apr 07, 2016 at 11:17 AM
+-- Generation Time: Apr 07, 2016 at 03:45 PM
 -- Server version: 5.5.48-cll
 -- PHP Version: 5.4.31
 
@@ -63,6 +63,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('01215fd047514226e1aa87c4ae0a236c', '180.76.15.25', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1456271611, ''),
 ('0128011c468292e3b516f78f858368e0', '51.255.65.39', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1457878220, ''),
 ('013ffd7cc159c6210f21f7b954d91d50', '46.118.157.172', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)', 1459924103, ''),
+('0145566f581704b903364223d4210466', '115.134.161.155', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.3', 1460012262, ''),
 ('014626df243cbb242785838f1da94f08', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1456241190, ''),
 ('01609378b4db4968c98bc4e9412ac5a4', '64.79.100.18', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453176704, ''),
 ('0162eb63d676862a552fd23923d4ee73', '183.171.23.43', 'Mozilla/5.0 (Linux; Android 4.1.2; ME371MG Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safa', 1453740623, ''),
@@ -80,7 +81,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('01fdf1448e62ddbf9c87a0ab38d1f522', '180.76.15.144', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1455229138, ''),
 ('020c0c6cc11b2990c725251649923f6b', '107.170.37.19', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1459450778, ''),
 ('020d471fd876641636c3ea8a615f7724', '175.141.171.212', 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 ', 1459527865, ''),
-('021233567b82e00817b8ac65895e5d4b', '115.134.161.155', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36', 1459994569, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"911028017284";}}'),
 ('02483955cf5c092f4f6f0223d2f54b75', '64.79.100.21', 'Mozilla', 1452308871, ''),
 ('026b70231b752d144501e0ae22a1760d', '142.4.213.25', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1455752111, ''),
 ('02705a33cc9c6af02945271aef6a7ebe', '37.115.184.42', 'Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.2; Windows NT 5.1; SV1; .NET CLR 1.1.4322)', 1457009381, ''),
@@ -135,7 +135,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('03f72043ef515078fed48aa097cccb9e', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00', 1456311431, ''),
 ('03f8e14604d713a076359547b1fc5f0c', '85.25.197.18', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36', 1455518832, ''),
 ('041186c9952cbabf339cdc0dbd6e2677', '175.136.141.60', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1459480350, ''),
-('041d8bb8d69c10c9469bf5c9279a89f8', '115.134.162.103', 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.20 Mobi', 1452230189, ''),
 ('043579c8331cc152c42747ce8911a71e', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)', 1456328873, ''),
 ('044b8283770c010341fe90db2908f1bd', '115.134.160.32', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36', 1458037692, ''),
 ('045cc708db7e47d29f8e9575c9396468', '54.243.141.178', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0', 1456801806, ''),
@@ -143,6 +142,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('047691bef7c8c0c849c8fc9891b71f50', '103.1.71.212', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36', 1459517053, ''),
 ('0479511f646cb47a4102f6b029fff0fb', '85.25.211.229', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)', 1457742137, ''),
 ('04823f3d7b325c52351c4689a73a6c6e', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1457001722, ''),
+('04a4f25ee3a6d856324cd5d81ada4313', '68.180.229.235', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1460005342, ''),
 ('04b03fecf18e4c01266be3a46356133b', '64.79.100.18', 'Mozilla', 1453097114, ''),
 ('04b5b7677ceabda7fc1bbc5eba1fcbba', '64.79.100.40', 'Mozilla', 1452555977, ''),
 ('04c7f179c03a6687426c033771123ecb', '64.79.100.32', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453299572, ''),
@@ -652,6 +652,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('1ec7cf94fda21dd4118d117ebb5c57f7', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459301635, ''),
 ('1ed25e319b04f92a58be488ec7d3774d', '178.255.215.82', 'Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)', 1458457195, ''),
 ('1eeb8c85606e5b6d4e88eeab0b1833fc', '66.249.71.37', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1456418733, ''),
+('1ef388a1780ff1711b93632bc2e1cc8b', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009708, ''),
 ('1f08ce59f2d02b4282e1b30c45da4a2f', '115.134.161.155', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1459818699, ''),
 ('1f3023282932f6f1dd7a02e8cef1453e', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00', 1456297973, ''),
 ('1f422820e91a86cfc381dbead1df4468', '176.9.57.228', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6', 1454590407, ''),
@@ -665,6 +666,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('1f92c261323822a70c2d22eda28c3cf1', '163.172.7.229', 'Stratagems Kumo', 1452267124, ''),
 ('1fa34ec2be99c6083a9ce072c840dc9e', '66.249.71.28', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454168451, ''),
 ('1fa6742c1956fdf6af1c947f89962e41', '51.255.65.39', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1454602811, ''),
+('1faf31f5198a2f902c32fd4b42235b47', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009707, ''),
 ('1fb12ed20c65bf10f813e710a9260811', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)', 1455860349, ''),
 ('1fb4bb6bfba9a02d25965179fbc21588', '64.79.100.32', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453299569, ''),
 ('1fb79063e73ceb9794eeddb1298d1f8c', '180.76.15.148', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1455709820, ''),
@@ -718,10 +720,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('21e950b185d11907035427cf747faef1', '64.79.100.46', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452979051, ''),
 ('21f179243feed8b8e5b060410b6830d3', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)', 1456907409, ''),
 ('2210522202563dce4dc39a8dabc5de83', '64.79.100.40', 'Mozilla', 1452555984, ''),
-('223bcd3edb05a3d4398cfac1d1c2d069', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1459258328, ''),
-('223c4b2ac7ac4f77bd08245a92ed0a23', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454934684, ''),
-('22470e0071e62ce03f12c77f07880b5f', '183.171.169.236', 'Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobil', 1453162011, '');
+('223bcd3edb05a3d4398cfac1d1c2d069', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1459258328, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('223c4b2ac7ac4f77bd08245a92ed0a23', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454934684, ''),
+('22470e0071e62ce03f12c77f07880b5f', '183.171.169.236', 'Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobil', 1453162011, ''),
 ('2255b9281eac9b9bd33fc6c20a70172b', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1454787158, ''),
 ('225657b3bdd87d0d008bdc0f3b5b0864', '66.249.71.19', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1455511494, ''),
 ('226361d999d09cc7a69e8f948a83c439', '46.119.114.21', 'Opera/9.0 (Windows NT 5.1; U; en)', 1457191698, ''),
@@ -1065,10 +1067,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('340d5d4fbaaad067216a7c557635f56e', '46.119.122.177', 'Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [en]', 1456971389, ''),
 ('3410cbf0d6bd128aa45e1ca34055526a', '130.193.51.43', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1459540822, ''),
 ('3416019bf9394bed6fc04bee66e0a039', '66.249.71.28', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1453894291, ''),
-('341b0639a8f54678e6b8987c8a724024', '220.181.108.152', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454416119, ''),
-('341d19956aa15782f61150f82c611105', '38.100.21.65', 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)', 1459881853, ''),
-('3422a42f5262e484a2bb0ebe8638d2de', '188.40.112.210', 'Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0', 1453269607, '');
+('341b0639a8f54678e6b8987c8a724024', '220.181.108.152', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454416119, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('341d19956aa15782f61150f82c611105', '38.100.21.65', 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)', 1459881853, ''),
+('3422a42f5262e484a2bb0ebe8638d2de', '188.40.112.210', 'Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0', 1453269607, ''),
 ('34377bd33fc17b7a9c9b47e334a759fc', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1459116856, ''),
 ('34543e49c5135bf6a5f5346a47079f70', '136.243.48.82', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1458553072, ''),
 ('34554fbf46dc0608690a29ee99c9010d', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)', 1455987370, ''),
@@ -1178,6 +1180,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('38f4a6d7421dc3101e9005c470e1341f', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00', 1456377442, ''),
 ('38ffa3bf6b813816057236b7bffcb0ef', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595942, ''),
 ('390ea0cc77641670fc6c958624298ed7', '180.76.15.34', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452788838, ''),
+('3913a20fa760baae55a498b4d9441a04', '115.134.161.155', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36', 1460012297, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"888888888888";}}'),
 ('3916f7f5059e2504ca82e189394dd4cf', '202.188.52.188', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36', 1459400033, ''),
 ('391c3638dc009b136f18d683d481b66e', '134.249.54.139', 'Opera/8.00 (Windows NT 5.1; U; en)', 1455927476, ''),
 ('391ee0578986462b1c7bac96f2ef5c18', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1453367273, ''),
@@ -1322,6 +1325,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('40185bfdb12b39f66d2680946a322012', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455464751, ''),
 ('4018f705c950cfd3f627830f927e2661', '46.118.114.111', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)', 1455336966, ''),
 ('40229c01222f79c0f066fbb42e437e30', '64.79.100.32', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453299561, ''),
+('402689b1a1a04df0e87c6d83a454b564', '66.249.84.184', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon', 1460015002, ''),
 ('4030e28cde0254d16e4fb3547c0d6a16', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455226686, ''),
 ('40365d14a09ea03ac5535c34e51541bf', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1455171553, ''),
 ('403bec4917319fe742c41dc64e625899', '180.76.15.145', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453556912, ''),
@@ -1344,7 +1348,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('40cd5f9c88f886fcccf4d628a822bcca', '69.58.178.57', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1', 1456941686, ''),
 ('40cee668d2e80c475e67316db92c1945', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452308874, ''),
 ('40e52a2a12d07e76b971592290d4e466', '23.80.132.202', 'Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0', 1458111691, ''),
-('40ed753a6ada035aa37e2483c1ba22e6', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452230211, ''),
 ('40f0d090fd7809e24f0bb3063d702656', '134.249.65.86', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1455486003, ''),
 ('40f413e0afeb1dc75745439417fd91e7', '51.255.65.26', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1453896704, ''),
 ('40fa119ed4245843fa5a9d69024365bb', '64.79.100.18', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453176702, ''),
@@ -1406,12 +1409,12 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('4378fbcf58544dfebcbd9ba7fbbab6d5', '175.136.140.252', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36', 1455540188, ''),
 ('437a79839e01b4164c88d59fda63e664', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)', 1456063769, ''),
 ('437d55805a8db3c62b534de3e93424b9', '220.181.108.119', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452731204, ''),
-('438c88e17de7f0bf0f53acffdb75d770', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455521639, ''),
+('438c88e17de7f0bf0f53acffdb75d770', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455521639, '');
+INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 ('43b531e0c68551c123114e71656f3f70', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1456512162, ''),
 ('43b76122dcda4ad18b44e953c5f16c97', '66.249.77.18', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452470596, ''),
 ('43dd2daec3b02ecf6001f6f9aa701810', '46.119.121.96', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)', 1459295073, ''),
-('43dee4554323587ca3b755b92ba2811a', '46.118.157.172', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)', 1459924104, '');
-INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('43dee4554323587ca3b755b92ba2811a', '46.118.157.172', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)', 1459924104, ''),
 ('43e822519627d4ac39043b5fb1d07f25', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1458557486, ''),
 ('43ecb7b343a954856be1d6229be592ee', '45.79.81.142', 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)', 1458726212, ''),
 ('4404fb9af9f4d3d3876dc5a4cae301db', '46.119.121.96', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01', 1459675214, ''),
@@ -1449,6 +1452,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('458e2b3d34df12f6693553cb765a556d', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Avant Browser [avantbrowser.com]; Hotbar 4.4.5.0)', 1459760953, ''),
 ('4598cafab2aa686e16ab452a242fa47a', '141.8.142.61', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458405403, ''),
 ('45a1a95991fa0002639e67898fbca412', '178.137.17.196', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; FDM)', 1455351134, ''),
+('45a823e9a9ee07a5deded79850ee5796', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009707, ''),
 ('45b4d3ee190c93972e36e8097ca7dbdf', '77.75.76.167', 'Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)', 1455284711, ''),
 ('45c8786ab1d95acdc58736898f05c6e7', '115.133.92.139', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0', 1458636190, ''),
 ('45ca7421923a5912cbcc1d57f95a1931', '188.165.15.129', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1452350809, ''),
@@ -1635,6 +1639,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('4e0af8fcde3364824bf3480e98bf0c98', '180.76.15.147', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453555684, ''),
 ('4e0d35e22249ca91e82e763fdd0e901c', '136.243.48.84', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1452648573, ''),
 ('4e1f3d3fa399512c3c7db0c7ed5d726a', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452308873, ''),
+('4e2e168f0eb8733bdc996ea86f067eea', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1460014769, ''),
 ('4e48f8140d4a087d3c438844a89512e1', '69.58.178.56', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1', 1457890986, ''),
 ('4e4a0eaf68bf3516783e3e592fb2b65d', '64.79.100.47', 'Mozilla', 1453375180, ''),
 ('4e4f1e321d166dbe6d984d696e5174e8', '123.125.71.77', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452333631, ''),
@@ -1705,7 +1710,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('5208b39dc08ecef743f1ff14282b4ac7', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)', 1455860349, ''),
 ('521332bc2751bc62130d96f3f94b741c', '66.249.77.18', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1455013201, ''),
 ('521edc228cb75cd35cffd9d5a2b70d33', '130.193.50.4', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458316301, ''),
-('522099bb2bb6b883871f1e0d17ca1a08', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452230938, ''),
 ('5220cd9c072b18a42fa476f64b1624fa', '107.170.37.19', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1459450768, ''),
 ('52283c8649ad890866993c39ebc8bc21', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459615633, ''),
 ('523bcb582302a1cb7c93be0f5a3a0174', '66.249.77.18', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1458449209, ''),
@@ -1738,13 +1742,13 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('539593d7d188a1054d94f60ba663aa5e', '178.137.17.196', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)', 1455352767, ''),
 ('539d05b3966b62639d26e30ea596178b', '46.118.157.172', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)', 1459847422, ''),
 ('53a7b899eb8c4e9c9770f8f9af757703', '77.75.78.169', 'Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)', 1459824228, ''),
-('53af8f75e93acf02ce0816da19baeb9c', '66.249.74.8', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1458190293, ''),
+('53af8f75e93acf02ce0816da19baeb9c', '66.249.74.8', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1458190293, '');
+INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 ('53b41b74f1323aee653ecec6b9829a60', '175.136.141.60', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1459391586, ''),
 ('53ca10bd795703cc4b4f7ade57f398a7', '175.141.2.35', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36', 1457343441, ''),
 ('53ca248901df0c96d4aec8d5883c4c0b', '51.255.65.72', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1455820104, ''),
 ('53d1017fc6f77b811789e25ca48216e0', '178.137.93.235', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5)', 1455708779, ''),
-('53d47be0f305ac719218606a48cfd5d3', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]', 1456668047, '');
-INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('53d47be0f305ac719218606a48cfd5d3', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]', 1456668047, ''),
 ('53d6ac3efb3eddf76796d9043d2990f7', '180.76.15.150', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453576115, ''),
 ('53df71e46ddc35149162bba6fb4a2f7a', '64.79.100.46', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452892173, ''),
 ('53e3e5083604d6a8641f0ee6e3dad2ba', '46.119.127.4', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)', 1458999265, ''),
@@ -1919,7 +1923,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('5c6a27cbde3212871d2e308ce5199bcf', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1458509952, ''),
 ('5c6d985e55d3d8104fa658d066df5a1d', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459047046, ''),
 ('5c8e8ade0c8f958ba93952b0e53870ae', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; APC; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50215; InfoPa', 1456411184, ''),
-('5ca04a4994c99d073080c01e2c1a0685', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452235206, ''),
 ('5ca8ecefb7ff2e4f6854c9f37e231dbe', '192.99.107.201', 'Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)', 1455178534, ''),
 ('5cb4130b1ecf48bbc7bc2a284abc8f19', '178.255.215.82', 'Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)', 1457102685, ''),
 ('5cb851bba249214f97d3075b08d834da', '210.186.199.4', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36', 1455540851, ''),
@@ -2083,12 +2086,12 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('645d5ecd09e67d4cc865f361135cb252', '107.170.37.19', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1459450773, ''),
 ('6461bf855f6fb46c15e6d9d7ec31b6ae', '64.79.100.19', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452386922, ''),
 ('64651c869776cd97baf72a135e4b71f9', '46.119.118.112', 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)', 1459855269, ''),
-('646b5952ba1e3acd7d700bfc321109fd', '134.249.65.86', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1456670814, ''),
+('646b5952ba1e3acd7d700bfc321109fd', '134.249.65.86', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1456670814, '');
+INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 ('647946e1b0b79709f05f92907810a918', '157.55.39.175', 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)', 1458287521, ''),
 ('6482bdfedf13019b5a5a94fb52b38024', '166.63.124.122', '0', 1454445716, ''),
 ('649168ee7dd67765fc5b3531b59cbe20', '175.136.143.216', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36', 1457669809, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"888888888888";}}'),
-('649860240eddbd89defe8706b4cfcea2', '141.8.142.61', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458043242, '');
-INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('649860240eddbd89defe8706b4cfcea2', '141.8.142.61', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458043242, ''),
 ('649ca18f87d1a335710f5844b22c5bb4', '107.170.81.129', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1458558878, ''),
 ('649f2a05de0aab6134ae9ccdaee76dff', '64.79.100.32', 'Mozilla', 1453299567, ''),
 ('64bd09794cd49086ea8fd61350c230c6', '180.76.15.19', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1458536864, ''),
@@ -2203,13 +2206,11 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('6a2b84d6e70cdbf004d152b8399a7348', '141.8.183.19', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458392537, ''),
 ('6a4e29992e58a1d018efb4f393f85242', '64.79.100.21', 'Mozilla', 1452308874, ''),
 ('6a5c15a67408230899a71901a7fe1ec9', '104.131.223.29', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1456830669, ''),
-('6a6297ef5a620ba227956f50bd3c04b2', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452231670, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"888888888888";}}'),
 ('6a63d4c88087811fa73b4abef2a5a2bb', '50.19.139.254', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.2', 1456368775, ''),
 ('6a724b4275fc9eac9cd035916fe9d418', '203.106.156.233', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36', 1458795827, ''),
 ('6a74d8d620ef035afcfac3f98f8b278d', '64.79.100.18', 'Mozilla', 1453176712, ''),
 ('6a825bae1024dac76717a493adbc73b0', '134.249.54.139', 'Opera/9.00 (Windows NT 5.1; U; ru)', 1456141026, ''),
 ('6a9ad44d42dc3b901ff294a9d3719a45', '51.255.65.13', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1457897678, ''),
-('6aa2331ef313721b20c6d4f6382c901d', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452236851, ''),
 ('6aafedf053aaa63d7e78d869cc884602', '167.114.172.224', 'Mozilla/5.0 (compatible; Lipperhey-Kaus-Australis/5.0; +https://www.lipperhey.com/en/about/)', 1457278238, ''),
 ('6ab2565ef1656eb2c398f4406b094692', '69.58.178.58', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1', 1455384690, ''),
 ('6abc3aa4583f09facdc4bae20db580cc', '46.119.117.207', 'Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; 240x320)', 1459279493, ''),
@@ -2341,9 +2342,9 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('715500836dea20e94986d8d782920869', '209.249.180.198', 'Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17', 1459785464, ''),
 ('7157c47a9e211d2c1c8c70dd751b0f45', '64.246.165.140', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/', 1459879669, ''),
 ('71603485521830bac418f7457d226953', '46.118.230.187', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1456864491, ''),
+('716f6508551073c4717ceb590654d172', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009709, ''),
 ('71791d1de8ce7c589e656209895fae1a', '54.243.143.134', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0', 1459825565, ''),
 ('7193fb10891d96d329073a70ddbe7c0d', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1456075692, ''),
-('7194afff0daba9e97af99c22c6f222dc', '115.134.162.103', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452239432, ''),
 ('7196bc21f4ba6ed1fe847f9c339f9227', '178.137.89.157', 'Opera/8.01 (Windows NT 5.1)', 1452850046, ''),
 ('71b417663921c08e0d9c5daa34d5f483', '177.86.24.194', 'Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17', 1459524826, 'a:2:{s:9:"user_data";s:0:"";s:20:"flash:old:errorlogin";s:69:"Your <B> IC Number</B> or <B> Password </B>is wrong, Please try again";}'),
 ('71d0f364ddc16a849af1798d47a1b9c4', '64.79.100.18', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453176704, ''),
@@ -2357,6 +2358,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('72223b6fc60bf29ec15e16b1a7475c4e', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)', 1459806309, ''),
 ('7224a9f686f4b8fcf5a823e97a0936c0', '46.119.122.177', 'Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [en]', 1456971390, ''),
 ('7225ebab283b7d367338140fb935efca', '178.137.93.235', 'Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)', 1455265376, ''),
+('72262b81e101da9d1a0e21581eaabf36', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1460000402, ''),
 ('722ce8ab03e1d86fdbd93339702b2319', '130.193.51.43', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458441467, ''),
 ('725d99b59d80a0a64dd3345eedaf1d15', '180.76.15.157', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452404308, ''),
 ('727246bc3845802b6df72522d8cf8c20', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1456478741, ''),
@@ -2422,12 +2424,11 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('75573608d4fc86b440d33d242e00f8f1', '68.180.230.50', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1456903428, ''),
 ('755a1d4b257be8b181d5fc4f8d4604ad', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1455622803, ''),
 ('755c29a9057d23b3b919c3355651431b', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01', 1456720248, ''),
-('75631b8521489403884a2ade7f1b29c9', '180.76.15.25', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459225618, ''),
-('757f527768e2bca31395b6c4239cafe6', '134.249.54.139', 'Opera/9.00 (Windows NT 5.1; U; en)', 1456359087, ''),
-('75af431f44a174c188d679d9b74e254c', '93.158.152.84', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458240163, '');
+('75631b8521489403884a2ade7f1b29c9', '180.76.15.25', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459225618, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('757f527768e2bca31395b6c4239cafe6', '134.249.54.139', 'Opera/9.00 (Windows NT 5.1; U; en)', 1456359087, ''),
+('75af431f44a174c188d679d9b74e254c', '93.158.152.84', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458240163, ''),
 ('75d55765939e4f182ef6b0aed823bf90', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1453940581, ''),
-('75e2d36c14759ff1a7e0eaae0fdaf929', '115.134.162.103', 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.20 Mobi', 1452230189, ''),
 ('75f9b2506f68745cd2858111b9b10442', '64.79.100.19', 'Mozilla', 1452386934, ''),
 ('75fd80641e278aa652c049b2eeeaaae1', '64.79.100.47', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453375182, ''),
 ('76056ede2ce9e1a7aa625782ea196548', '180.76.15.148', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1455709820, ''),
@@ -2501,7 +2502,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('7946e0827cc7887614e2c6990f930bc0', '66.249.77.24', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1452369434, ''),
 ('7946e7656d133e5c95b3da381090838f', '180.76.15.136', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459273549, ''),
 ('79483e44d9d8b685f0db40e91e23db7f', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1457333538, ''),
-('794bfabd78ead5948720a5709248963e', '180.76.15.148', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452229493, ''),
 ('796a61595442551e0afde17338c6dd77', '52.11.65.155', 'Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.0 Safari/534.34', 1457489027, ''),
 ('796ce7cd5cb050fd6d569ca79d6ffd9a', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)', 1459953021, ''),
 ('796fdda7dec84837c3ee61bdb0f0ef01', '46.119.114.21', 'Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)', 1457200171, ''),
@@ -2555,6 +2555,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('7c22bfade9ab79991e4c663b4cd2f1f3', '46.119.123.238', 'Opera/9.0 (Windows NT 5.1; U; en)', 1456152307, ''),
 ('7c31e46b289a93b273ece32bc306b20b', '66.249.77.12', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1459180356, ''),
 ('7c3680bf593fd1188754fb930b79bca3', '80.82.65.82', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)', 1457576247, ''),
+('7c43c8ccd2f641d3a31e8e79118fcbd4', '180.76.15.23', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1460014256, ''),
 ('7c48cf919780279de82dff0f2c34bed4', '115.164.177.196', 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 ', 1459498224, ''),
 ('7c4feb7ada873471b3b0317cf6c0d9f6', '178.137.83.165', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; Alexa Toolbar; (R1 1.5))', 1459700598, ''),
 ('7c62a3670bae527e0c615dab712e680e', '46.119.127.4', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.50', 1459457724, ''),
@@ -2610,6 +2611,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('7f0f998ec65dd92d1545b496632a6d83', '175.136.192.205', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36', 1453431462, ''),
 ('7f1736c3b0bc49f39152cb8d23dcb3b6', '178.137.93.235', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)', 1455346098, ''),
 ('7f1df4c8d11cc866c80ae686f8ae718f', '46.118.114.111', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)', 1455336968, ''),
+('7f24de0dd210e0106beb705099fd8ac8', '173.255.243.26', 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)', 1460002281, ''),
 ('7f27261301b6fe9b4410a5a9ceca9412', '66.249.71.37', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452278699, ''),
 ('7f2ed4de4bb1b20b57a242b3c4cf7cec', '46.119.127.4', 'Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)', 1459251208, ''),
 ('7f4f240d55cbe2e04f0a5305752d1c79', '46.118.114.111', 'Mozilla/4.7 (compatible; OffByOne; Windows 2000) Webster Pro V3.4', 1455618642, ''),
@@ -2760,9 +2762,9 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('85879d91052d432bd984625bc33b9a2a', '64.79.100.18', 'Mozilla', 1453097120, ''),
 ('8588693833d737f38ceb5651935cc9c0', '46.119.117.207', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)', 1459065033, ''),
 ('85887863cd613a605c8bfb32a0377c83', '46.119.127.4', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.50', 1459285776, ''),
-('8588be3fe2f1e7c2190af71bbebc5bc4', '66.249.79.2', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452270170, ''),
-('85b1666e7f4ef2b7c33347a5b75fd12d', '178.137.93.235', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)', 1455637250, '');
+('8588be3fe2f1e7c2190af71bbebc5bc4', '66.249.79.2', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452270170, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('85b1666e7f4ef2b7c33347a5b75fd12d', '178.137.93.235', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)', 1455637250, ''),
 ('85b51729e0a7834e7e66ef0af7ce15af', '52.32.218.105', 'Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17', 1458581311, 'a:2:{s:9:"user_data";s:0:"";s:25:"flash:old:errorregistered";s:58:"Sorry, maybe you have been registered already before this!";}'),
 ('85b9a5b8f51609efd962a923106aa2e5', '46.119.127.64', 'Opera/9.01 (Windows NT 5.1; U; en)', 1457170046, ''),
 ('85c78ca4eec0f2a465ec574364d7d135', '45.79.81.142', 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)', 1457993802, ''),
@@ -3094,10 +3096,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('966c64cc1a03af7a350abe28b64d4c81', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595937, ''),
 ('96712c039dce5b19f1a5f47cb7ad85ba', '66.249.71.226', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1458201887, ''),
 ('9677469379629f3ac542c8a8b683598a', '46.119.119.70', 'Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.00', 1453641295, ''),
-('968ff536f888004a43a329d218f93c58', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)', 1455860348, ''),
-('9695ce09e6bc7611ed72ba80cff18742', '85.25.185.173', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)', 1452676377, ''),
-('96a33ff858b699f7f19a7e02f64f1676', '51.255.65.51', 'Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)', 1459817766, '');
+('968ff536f888004a43a329d218f93c58', '46.119.123.238', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)', 1455860348, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('9695ce09e6bc7611ed72ba80cff18742', '85.25.185.173', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)', 1452676377, ''),
+('96a33ff858b699f7f19a7e02f64f1676', '51.255.65.51', 'Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)', 1459817766, ''),
 ('96bb63dbc8f4b559fa51b4529e43e223', '157.55.39.164', 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)', 1453305538, ''),
 ('96ce69a6e771b8d46cf759f8e4c03054', '202.167.250.59', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36', 1455505432, ''),
 ('96cf34c69c76629b19d36d9d6854914b', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1457170719, ''),
@@ -3426,10 +3428,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('a7a1705cd0302a1310476f0a027b131c', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459885053, ''),
 ('a7a20de6c93d13bc4645cb88811d741b', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]', 1456668047, ''),
 ('a7a3e17db1037881b1a2ea30d0653f63', '203.106.153.206', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36', 1453028338, ''),
-('a7a4abf74e7fef989257891b1c7146df', '180.76.15.144', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452631435, ''),
-('a7af937fdeec20b279c9bbe6aa2c9869', '180.76.15.14', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454420677, ''),
-('a7c086a1747bda63049be12abd84b0b0', '130.193.51.43', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458599594, '');
+('a7a4abf74e7fef989257891b1c7146df', '180.76.15.144', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1452631435, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('a7af937fdeec20b279c9bbe6aa2c9869', '180.76.15.14', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454420677, ''),
+('a7c086a1747bda63049be12abd84b0b0', '130.193.51.43', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458599594, ''),
 ('a7c89e2d3a6a6b05334ba68dedfd9a7e', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455197957, ''),
 ('a7d01707d7f44d0e2e924edb9e6d4c74', '180.76.15.34', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453203572, ''),
 ('a7d3db060e5f82539b6b493386f69dc8', '180.76.15.9', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459258668, ''),
@@ -3515,7 +3517,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('ab2dd261db1a53e8b3054b3e145036d8', '40.114.46.238', 'python-requests/2.7.0 CPython/2.7.10 Linux/4.2.0-23-generic', 1452632950, ''),
 ('ab35cd400447c32856eac21fdfdcbbb9', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459018221, ''),
 ('ab3c6419003a87a68e525ffa7487d38c', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)', 1459806307, ''),
-('ab4559fa33842c98987b3703f6d96ed2', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452231670, ''),
 ('ab49ec560b8da96b433d3eb691014343', '210.186.199.4', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36', 1455543379, ''),
 ('ab5621cc1332caa8aa3c6a077a34ff27', '107.170.37.19', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1459450823, ''),
 ('ab66b4d6ef8b849aa658b3619ba0ce8c', '104.40.210.85', '0', 1455901265, ''),
@@ -3544,6 +3545,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('ac5e3699bd5994fd8f5f9a7cc1b730aa', '46.119.127.64', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)', 1456850143, ''),
 ('ac7c1e89506080338ae3a28866202c56', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452308865, ''),
 ('ac7e10d18198afa22b6fd6f10a5d47a4', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452455216, ''),
+('ac93f3c5bc0c9daae03f05d24db3a461', '173.255.243.26', 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)', 1460002281, ''),
 ('ac9aa17f85bbe9f531348eecbad94ec4', '151.80.31.150', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1458125324, ''),
 ('acaa005800517e5aae2a1406bcb7bc71', '207.46.13.159', 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)', 1453305528, ''),
 ('acb85eb24dfd60a3f0ef92d300906ab3', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1457900836, ''),
@@ -3685,6 +3687,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('b2d1fa6faa3d32bfe338e6a895f754b2', '5.9.17.118', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31', 1459663870, ''),
 ('b2da7bfd83d28e4bc8f7c7a71ffab40e', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459899625, ''),
 ('b2dd630e23fc4267059a243adeebb8e5', '64.79.100.19', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452386936, ''),
+('b2e9d1ed330dc96881c6c18146eb7d50', '68.180.229.235', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1460005342, ''),
 ('b30b3d2b29582e730e7fe078a67a3bd3', '103.1.71.128', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0', 1457855890, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"888888888888";}}'),
 ('b3231482d107bb3dbab344f510b7379b', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.6 (build 01425))', 1459998377, ''),
 ('b32adc64ff5a901a5e99eb10d6456c1a', '64.79.100.40', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452555976, ''),
@@ -3722,6 +3725,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('b480d77645e0f4f82a6478e99225479c', '141.8.142.67', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458389844, ''),
 ('b4998f425af7fdcfc55953af927c1100', '180.76.15.153', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1457147865, ''),
 ('b4a90b0d1122e58f0d5ea44e99c5287d', '37.115.184.42', 'Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.2; Windows NT 5.1; SV1; .NET CLR 1.1.4322)', 1457009382, ''),
+('b4ae28252a3a196feab592aaa0eb05f7', '115.134.161.155', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36', 1460012297, ''),
 ('b4b7bcd7730e38e1ed0e2d333c2451ed', '66.249.71.19', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1455135062, ''),
 ('b4be1f41e13cd3a1f323eab5e9df632b', '46.119.127.4', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]', 1459412236, ''),
 ('b4c01d27add7193e2fb91df5d43bf59f', '64.79.100.18', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453176710, ''),
@@ -3761,11 +3765,11 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('b629e6b9fef1075234093deddb06bda9', '51.255.65.32', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1455371680, ''),
 ('b62de56767ba99b5046d9a486a52afc4', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1456472009, ''),
 ('b6312a50f3246fa95f426c1e57208503', '69.58.178.57', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1', 1459946558, ''),
-('b6493637dcda1e4458239b41f3e84a63', '5.101.220.183', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)', 1455717278, ''),
+('b6493637dcda1e4458239b41f3e84a63', '5.101.220.183', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)', 1455717278, '');
+INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 ('b64a4beaf043681a40ab5071790e2853', '66.249.71.28', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1455108920, ''),
 ('b661769513496da4998d153ea52b8500', '64.79.100.15', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452472103, ''),
-('b668991faf8f03185ba881a2a3f5d675', '180.76.15.16', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1458030602, '');
-INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('b668991faf8f03185ba881a2a3f5d675', '180.76.15.16', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1458030602, ''),
 ('b6786c68af7310eb0566f5fcb69858f4', '66.249.77.12', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1459454769, ''),
 ('b67b5b0917ebd3564e70e50d2a8d4d54', '64.79.100.29', 'Mozilla', 1452676300, ''),
 ('b68e20b2feddd061ccc788b34dea3258', '66.249.77.24', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1453952280, ''),
@@ -3840,10 +3844,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('b9deee91a582a4a71d36adb78554c154', '64.79.100.24', 'Mozilla', 1452823320, ''),
 ('b9e80e0212ae006e2819893c6c819950', '134.249.54.139', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)', 1456350324, ''),
 ('b9e8d4ddf88d8ab1b1b5fe315e21824b', '180.76.15.13', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1458400164, ''),
-('b9ec71280b117084ee6fd904b247aba0', '68.180.229.102', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1452232996, ''),
 ('ba06edec82f3f5b0c08b4eaea6a6411c', '180.76.15.159', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1457587799, ''),
 ('ba28faa1c8287aec0f91d4bfca1b9f60', '157.55.39.15', 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)', 1453951255, ''),
 ('ba34b2e774002b98a31efb4debb3c724', '46.118.126.200', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)', 1452286936, ''),
+('ba34eac92ad98f0d73e6893c3b82b187', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009709, ''),
 ('ba36c422604fcac76f4345a739ad6f83', '104.40.210.85', '0', 1456268453, ''),
 ('ba37797af20a00e875a3de0f6cf010dc', '193.107.85.56', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1452774814, ''),
 ('ba43a4cbf38d60db01b13775b5fb057d', '66.249.71.19', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1453814033, ''),
@@ -4098,10 +4102,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('c51ab83608262c30b1c1c9f70ba44615', '54.225.99.218', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0', 1456369508, ''),
 ('c51ce36e576b8936b7aa129d5c849e65', '64.79.100.19', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452386935, ''),
 ('c524b986b308519dbfb8278bd335ade9', '178.137.81.41', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705)', 1456724016, ''),
-('c52c1c6d2cdac4b3defdf453d299d1b9', '180.76.15.5', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453914514, ''),
-('c53079efcb9748adf3483facd5fea119', '64.79.100.24', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452823326, ''),
-('c54c43de6c2ad1a10715b7d599ed09ce', '66.249.77.12', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454726257, '');
+('c52c1c6d2cdac4b3defdf453d299d1b9', '180.76.15.5', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453914514, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('c53079efcb9748adf3483facd5fea119', '64.79.100.24', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452823326, ''),
+('c54c43de6c2ad1a10715b7d599ed09ce', '66.249.77.12', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454726257, ''),
 ('c580e4dd8e6246ea4b449af283038605', '141.8.142.61', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1459905249, ''),
 ('c59e72d558a621c9651b9b64e32c4546', '175.136.141.191', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1458805036, ''),
 ('c5a3da7f5d05334c61c23bb18962088f', '45.79.89.188', 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)', 1456821482, ''),
@@ -4124,6 +4128,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('c63d3a574066f7894c6c1df6a8892902', '66.249.71.37', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1452301674, ''),
 ('c65f8e2cc48923231880b5a1b907f30a', '180.76.15.17', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459378357, ''),
 ('c663ae6c825d23b56172cd6e355e612d', '64.79.100.46', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452892176, ''),
+('c66c45204193097697727fd3152aeb5e', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1459999907, ''),
 ('c67473819b120c09d7fba663d5a3e562', '51.255.65.47', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1455473994, ''),
 ('c67ee5bdf688b067a7699eea780578be', '94.242.222.23', 'Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17', 1459785466, ''),
 ('c684e9f23ca944e87646f6c1cca78970', '188.165.15.129', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1452661554, ''),
@@ -4399,7 +4404,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('d3b984dc2f05b7301225ca6e373783f9', '212.227.134.113', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6', 1454842884, ''),
 ('d3c6fcf9e2b29c2ea4b5e9d43b4e8736', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1456756151, ''),
 ('d3c82f468305dcc65b7278c1a4825722', '130.193.51.43', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1457472835, ''),
-('d3c9c0ea68ffef0cebd77f29b8b4fac7', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452229222, 'a:2:{s:9:"user_data";s:0:"";s:9:"logged_in";a:1:{s:8:"username";s:12:"555555555555";}}'),
 ('d3cb11ef069c126a5a753e2623b002d9', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595937, ''),
 ('d3ce27a88fc533c44815fabd918de5b1', '141.8.142.58', 'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)', 1458247730, ''),
 ('d3e1baa8098eac0a92fbe9e08cd0aad8', '35.0.127.52', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1452772627, ''),
@@ -4435,10 +4439,10 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('d63623f3c2faa7f818b7890d2468df51', '203.106.153.206', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36', 1453026374, ''),
 ('d63e2bb0b0e632a41e33f6388d739857', '192.99.107.215', 'Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)', 1453639694, ''),
 ('d64b686efa5425360d3f6a1af768055f', '107.170.81.129', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1458558893, ''),
-('d64d1ddaffc5be67283bac5d307fcda2', '134.249.54.139', 'Opera/8.00 (Windows NT 5.1; U; en)', 1455927478, ''),
-('d657718a408d2bd8f62b3f3c7525010f', '180.76.15.139', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1455087504, ''),
-('d670333ad4907eaec00ac3eb7d51f022', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1456756242, '');
+('d64d1ddaffc5be67283bac5d307fcda2', '134.249.54.139', 'Opera/8.00 (Windows NT 5.1; U; en)', 1455927478, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('d657718a408d2bd8f62b3f3c7525010f', '180.76.15.139', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1455087504, ''),
+('d670333ad4907eaec00ac3eb7d51f022', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1456756242, ''),
 ('d67cb1494a22a1a808dc155407356586', '51.255.65.69', 'Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)', 1455076503, ''),
 ('d684690599ef442ea815bc40e912105e', '46.119.117.207', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)', 1459023691, ''),
 ('d6876fd076af7a8ffbff991f863cca63', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1.0.2914)', 1456126867, ''),
@@ -4532,6 +4536,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('db23cc0be11cd3770a5c6e3a078c8ee8', '178.137.81.41', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)', 1456589553, ''),
 ('db2e7d99b3afc35179299bc9a9dea4f5', '180.76.15.23', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453961235, ''),
 ('db34a6240e1a53cbdc76169a3c14bec1', '64.79.100.21', 'Mozilla', 1452308875, ''),
+('db36db77e9fd540c2b3cc98041c74f74', '5.248.253.133', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)', 1460009708, ''),
 ('db3bbee60f47acdad79643255dd6b96c', '175.136.140.252', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36', 1455781180, ''),
 ('db3c5b27e44665766ac133ec118cec3f', '220.181.108.159', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1453210892, ''),
 ('db3faf60281f628498ede7b7b4c81f01', '180.76.15.16', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454545993, ''),
@@ -4627,7 +4632,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('dff397e89a6566142e8c4e92fd6f1cdc', '64.79.100.24', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452823310, ''),
 ('dffc65dc603909ac395f19169a49aecc', '103.253.112.143', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0', 1458940597, ''),
 ('e00fe7d92ca59cccfc3edc82a73c76f5', '68.180.230.40', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1459287979, ''),
-('e0182e0d5fca25f59dcdc5f6809859c8', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452226314, ''),
 ('e02df1c36f544a7a81fcef6aaf176bc5', '193.90.12.86', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36', 1458902532, ''),
 ('e02df53062305583fd309b84a8251171', '66.249.71.19', 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 S', 1452363359, ''),
 ('e032404da298847e6831988048aedd08', '113.210.56.75', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36', 1459928269, ''),
@@ -4779,9 +4783,9 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('e73a66739f9e68443a0d242b71558a4d', '180.76.15.15', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1459615827, ''),
 ('e73b0f656b6eb759709f0b277396c1ee', '107.189.60.74', 'Mozilla/5.0 (X11;) Firefox/38.0', 1458481659, ''),
 ('e754a1d4b5e717c90f4d63885883ff0b', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455204550, ''),
-('e75969e9fb7880cf2a9b0fca2cae3ed6', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595940, ''),
-('e77570cf0b3c8963aecf99309a00dff1', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 4.6 (build 01425); MRSPUTNIK 1, 5, 0, 19 SW)', 1456432060, '');
+('e75969e9fb7880cf2a9b0fca2cae3ed6', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595940, '');
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('e77570cf0b3c8963aecf99309a00dff1', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 4.6 (build 01425); MRSPUTNIK 1, 5, 0, 19 SW)', 1456432060, ''),
 ('e788ff4761cd502e0c465e0c86e391b2', '46.119.117.85', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YPC 3.0.2; .NET CLR 1.1.4322; yplus 4.4.02b)', 1455874183, ''),
 ('e7abe94675bdbd9e60f332e004a326e2', '64.79.100.43', 'Mozilla', 1453773666, ''),
 ('e7ba6c189dadb4864fc5ab2eb9d060f5', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595943, ''),
@@ -4983,6 +4987,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('f1ab7f4fb4d66194653c5dcf25fed5ce', '69.58.178.56', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1', 1457890977, ''),
 ('f1b64989488f88190fec6e6dec27994e', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1457393585, ''),
 ('f1b9dd22556cef5480f8c9125957b63e', '68.180.228.160', 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)', 1456483750, ''),
+('f1bb62d50227004b2b921e3fd7a02d13', '115.134.161.155', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.3', 1460012262, ''),
 ('f1da03dcebca485035d6bf8c6a38527a', '46.119.127.4', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)', 1459534893, ''),
 ('f1e5a66ba39552f4814a2a09f967abba', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1458452091, ''),
 ('f1f8d07e97f9829f2138b2ea41bef934', '198.50.131.46', 'iskanie (+http://www.iskanie.com)', 1454159888, ''),
@@ -5052,6 +5057,7 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('f5af54d70f248df68efa68e79d595c7b', '175.136.141.191', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1458803760, ''),
 ('f5b2fc6eb86154b165052d7467ef1247', '37.115.184.42', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)', 1457169136, ''),
 ('f5cdbf7391024f767c7e19e3f6a24a26', '115.133.92.139', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0', 1458544266, ''),
+('f5f559e38170c785b63ab13d615a199e', '66.249.84.184', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon', 1460015002, ''),
 ('f5feb1338b886c6382d268810b564dce', '64.79.100.21', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1456595931, ''),
 ('f6195ff6c6635705e09590a8ad31bee0', '64.79.100.32', 'Mozilla', 1453299569, ''),
 ('f62149c905c9c90a6abf0396290ef323', '64.79.100.21', 'Mozilla', 1456595932, ''),
@@ -5110,11 +5116,11 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('f8708b7077013136a94c3e73e44f4665', '37.115.184.42', 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.0', 1456928577, ''),
 ('f88634ba48487a632552b71c71fb21fd', '64.79.100.46', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452892177, ''),
 ('f88f2e13a2ae0d71a16ed0ab3ce00072', '180.76.15.10', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1458628821, ''),
-('f88fb5758fd5fd26edd801059fbea1c4', '85.93.89.232', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36', 1459905699, ''),
+('f88fb5758fd5fd26edd801059fbea1c4', '85.93.89.232', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36', 1459905699, '');
+INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 ('f899deab2146c545b2c676d7f2dea250', '136.243.36.83', 'Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)', 1455984432, ''),
 ('f89b342da1e10dcb32d96fe6e6cb3415', '208.115.113.84', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1455408217, ''),
-('f8b348a51ba216c0aa0022dd873bf9ca', '175.136.141.191', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1458899691, '');
-INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
+('f8b348a51ba216c0aa0022dd873bf9ca', '175.136.141.191', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 1458899691, ''),
 ('f8c98ec89bc158d7e2d6d8163431912e', '180.76.15.9', 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)', 1454874527, ''),
 ('f8d1f2404f2f250303c886c3c7dc9526', '104.131.182.65', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1457693509, ''),
 ('f8d375b8e0c3463545c232b787d13d0e', '46.119.123.199', 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)', 1459806311, ''),
@@ -5149,7 +5155,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('f9f4d5ce5b4c658e7df2c1032297149d', '93.180.64.230', 'Mozilla/5.0 (compatible; Plukkie/1.6; http://www.botje.com/plukkie.htm)', 1455203742, ''),
 ('f9fdd2b1a7109a98aa1e5bb01ab1221d', '64.79.100.18', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1452758310, ''),
 ('fa0d4379ed5d33c0e795269a067b6e2e', '104.131.223.29', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1456830759, ''),
-('fa3d1240f8f0167c193c73a12fa8c5ae', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452229222, ''),
 ('fa3e06c71630c961de142f0949d5f12e', '208.115.111.68', 'Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)', 1458341233, ''),
 ('fa442fb79fcc9dac3f7cd76fcd0775e2', '64.79.100.19', 'Mozilla', 1456709071, ''),
 ('fa4b08620c5a513a46895642b4a43544', '166.63.124.122', '0', 1454445665, ''),
@@ -5246,7 +5251,6 @@ INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activ
 ('ff983632c109e3c229d90b0aabf65fb9', '64.79.100.46', 'Mozilla', 1452892174, ''),
 ('ff9df5b0b6cbc311f2538716b8e66156', '107.170.81.129', 'Mozilla/5.0 (compatible; spbot/5.0; +http://OpenLinkProfiler.org/bot )', 1458558779, ''),
 ('ffb7307b3b07e880e3797d120409ae71', '64.79.100.32', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36', 1453299565, ''),
-('ffbbe7ab996b2e26d78dd6865e5a0b27', '115.134.162.103', 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 1452227830, ''),
 ('ffd5e7bba7aa43329938beb39e59dd8d', '66.249.77.12', 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)', 1454326050, ''),
 ('ffd6594aad149456dadf7a6e50fbb013', '103.1.71.108', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0', 1455892823, ''),
 ('ffd7529c9a848362bdc5485af4d182fa', '110.159.127.139', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36', 1453364455, ''),
