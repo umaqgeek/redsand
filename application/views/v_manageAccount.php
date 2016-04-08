@@ -329,7 +329,7 @@ echo "</div>";
 ?>
 <div class="shortcode col3-1" style=" width:100%" >  <BR>
 <B>
-<?php   $attributes = array("class" => "form-horizontal", "id" => "employeeform", "name" => "employeeform", 'onsubmit' => "return checkForm(this)"); ?>
+<?php $attributes = array("enctype" => "multipart/form-data", "class" => "form-horizontal", "id" => "employeeform", "name" => "employeeform", 'onsubmit' => "return checkForm(this)"); ?>
 
 <?php echo form_open("user_authentication/updateAccountProcess/" . $id,$attributes); ?> 
 
@@ -376,9 +376,14 @@ Re-enter Password : <BR>
                 
 <BR>IC Number : <BR> <input type="text" id="icnumber" name="icnumber" placeholder="Please enter your IC Number. Eg: 9211026018922" value="<?php echo $icnumber ?>" > <BR><BR>
 <div class = "form-group">
-<label for="firstname"class=col-sm-3" control-label">Upload your IC image:</label>
+    <img src="<?php echo base_url(); ?>assets/uploads/profile/<?php echo $user_image; ?>" width="150" height="150" class="img-rounded img-polaroid" />
+
+    <br />
+    
+    <label for="firstname"class=col-sm-3" control-label">Upload your IC image:</label>
 <div class= "col-sm-9">
-<input type="file" class="form-control" name="tr_file title="please insert"/>
+<input type="file" class="form-control" name="tr_file" title="please insert"/>
+<input type="hidden" value="<?php echo $user_image; ?>" name="tr_file1" />
 </div>
 </div>   
        

@@ -644,6 +644,7 @@ class User_Authentication extends CI_Controller
 	            $data = array
 			    (
 	               'id' 		=>$result[0]->id_login,
+	               'user_image' 		=>$result[0]->user_image,
 	               'username' 	=>$result[0]->user_name,
 	               'email' 		=>$result[0]->user_email,
 	               'password' 	=>$result[0]->user_password,
@@ -695,6 +696,9 @@ class User_Authentication extends CI_Controller
 	public function updateAccountProcess($id)
 	{
 		$data['id'] = $id;
+                
+                $arr = $this->input->post();
+//                print_r($arr); die();
 		
 		$data = array
 		   (
@@ -733,6 +737,16 @@ class User_Authentication extends CI_Controller
 				'countryw'       =>$this->input->post('countryw')  
 	           
 	        );
+                
+                $data_upload = $this->my_func->do_upload('tr_file', './assets/uploads/profile/');
+//                print_r($data_upload); die();
+                
+                if (isset($data_upload['error']) && !empty($data_upload['error'])) {
+                    $data['user_image'] = $arr['tr_file1'];
+                } else {
+                    $user_image = $data_upload['upload_data']['file_name'];
+                    $data['user_image'] = $user_image;
+                }
 		                
 		$username = $this->input->post('username');
 	    $password = $this->input->post('pwd1');
