@@ -119,7 +119,7 @@ class Main extends CI_Controller {
         	        
 			<hgroup>
 <div id="site-logo"><a href="' . site_url() . 'main" title="">
-<span><img src="' . site_url() . 'assets/images/kodinar.png" width="85" height="12" alt="logo" style="margin-top: -26px;"/></span></a></div>			
+<span><img src="' . base_url() . 'assets/images/kodinar.png" width="85" height="12" alt="logo" style="margin-top: -26px;"/></span></a></div>			
                 
               </hgroup>
 			  <nav id="main-nav-wrap">
@@ -277,7 +277,7 @@ class Main extends CI_Controller {
             $code = '<header id="header" class="pagewidth">
         	        
 			<hgroup>
-				<div id="site-logo"><a href="' . site_url() . 'main"><span><img src="' . site_url() . 'assets/images/kodinar.png" width="84" height="12" alt="logo" style="margin-top: -26px;"/></span></a></div>			</hgroup>
+				<div id="site-logo"><a href="' . site_url() . 'main"><span><img src="' . base_url() . 'assets/images/kodinar.png" width="84" height="12" alt="logo" style="margin-top: -26px;"/></span></a></div>			</hgroup>
 	
 			<nav id="main-nav-wrap">
 				<div id="menu-icon" class="mobile-button"></div>
