@@ -652,7 +652,7 @@ class User_Authentication extends CI_Controller
 			       'middlename'    =>$result[0]->middlename,
 			       'lastname'      =>$result[0]->lastname,
 			       'gender'        =>$result[0]->gender,
-			       'icnumber'      =>$result[0]->icnumber,
+			       'icnumber'      =>$result[0]->user_name,
 			       'phone'         =>$result[0]->phone,
 			       'facebookurlid' =>$result[0]->facebookurlid,
 			       'date'          =>$result[0]->date,
@@ -679,7 +679,8 @@ class User_Authentication extends CI_Controller
 			       'statew'         =>$result[0]->statew,
 			       'countryw'       =>$result[0]->countryw,
 		           'status'         =>$result[0]->status
-	            ); 
+	            );
+                    $data = $this->login_database->trimData($data);
 				 
 				$this->load->view('v_manageAccount',$data); 
 	        }
@@ -1012,14 +1013,15 @@ class User_Authentication extends CI_Controller
 
 	public function homes() 
 	{
-		$data = $this->_checkSession();
-		
-		if($data != false)
+            $data = $this->_checkSession();
+
+            if($data != false)
 	    { 
 			$result = $this->login_database->retrive($data);
 			
 			if($result != false)
 			{
+//                            print_r($result); die();
 				$data = array
 				 	(
 				   		'userlevel'     =>$result[0]->user_level,
