@@ -34,8 +34,8 @@ class Portal extends CI_Controller {
 	public function index()
 	{
        /* echo '
-        <a href="'.base_url().'index.php/portal/post/add">Add Post</a><br>
-        <a href="'.base_url().'index.php/portal/post">Post List</a><br>';*/
+        <a href="'.site_url().'portal/post/add">Add Post</a><br>
+        <a href="'.site_url().'portal/post">Post List</a><br>';*/
 		$datas['nav'] = $this->displayNav();
         $datas['postList'] = $this->displayPost();
 		
@@ -241,7 +241,7 @@ class Portal extends CI_Controller {
                 <time datetime="'.$y.'-'.$m.'-'.$d.'" class="post-date entry-date updated" itemprop="datePublished">
                     <span>'. $this->month($m) .' '.$d.', '.$y.'</span>
                 </time>
-                <h1 class="post-title entry-title" itemprop="name"><a href="'. base_url().'/index.php/portal/postContent/'.$y.'/'.$m.'/'.$d.'/'.$id.'/" title="'.$t.' " >'.$t.'</a></h1>
+                <h1 class="post-title entry-title" itemprop="name"><a href="'. site_url().'portal/postContent/'.$y.'/'.$m.'/'.$d.'/'.$id.'/" title="'.$t.' " >'.$t.'</a></h1>
             <!-- / Title, post icon, post date -->
             <div class="post-content">  
             <div class="entry-content" itemprop="articleBody">  
@@ -294,7 +294,7 @@ class Portal extends CI_Controller {
     public function lineMonth($month = null , $year = null)
     {
         $line = '<li>
-                    <a class="jump-month" data-jump="jump-'.$year.'-'.$month.'" data-year="'.$year.'"" data-month="'.$month.'" href="'.base_url().'postline/'.$year.'/'.$month.'">
+                    <a class="jump-month" data-jump="jump-'.$year.'-'.$month.'" data-year="'.$year.'"" data-month="'.$month.'" href="'.site_url().'postline/'.$year.'/'.$month.'">
                     '.$this->month($month).'</a>
                 </li>
                 ';

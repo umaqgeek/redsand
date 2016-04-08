@@ -110,7 +110,7 @@ class C_mail extends CI_Controller {
 				if ($result != false) {
 					$this->_showError("Berjaya Send");
 				       
-                                        //redirect(base_url()."/c_mail");
+                                        //redirect(site_url()."/c_mail");
                                             
                                         if($member)
                                         {
@@ -119,7 +119,7 @@ class C_mail extends CI_Controller {
 				}
 				else{
 					$this->_showError("Tidak berjaya Send");
-					redirect(base_url()."c_mail");					
+					redirect(site_url()."c_mail");					
 				}
 			}else{
 				$this->_showError("Staff Access Only");
@@ -151,7 +151,7 @@ class C_mail extends CI_Controller {
 			{
 				$error = array('error' => $this->upload->display_errors());
 				$this->_showError($error);				
-				redirect(base_url().'c_mail');
+				redirect(site_url().'c_mail');
 				return false;
 			}
 			else
@@ -174,7 +174,7 @@ class C_mail extends CI_Controller {
 				);
 				$this->m_mail->updateTableHatta($arr , $arr2);
 				$this->_showError("Send Done");
-				redirect(base_url().'c_mail');
+				redirect(site_url().'c_mail');
 				return false;
 			}
 		}else{
@@ -246,11 +246,11 @@ class C_mail extends CI_Controller {
 							}
 							if ($temp) {
 								if ($this->m_mail->delete($id)) {
-									redirect(base_url()."c_mail");
+									redirect(site_url()."c_mail");
 									return true;
 								}else{
 									$this->_showError("Massage Not Found");
-									redirect(base_url()."c_mail");
+									redirect(site_url()."c_mail");
 									return false;
 								}
 							}
@@ -264,7 +264,7 @@ class C_mail extends CI_Controller {
 					}
 				}else{
 					$this->_showError("Massage Not Found");
-					redirect(base_url()."c_mail");
+					redirect(site_url()."c_mail");
 					return false;
 				}			
 			}else{
@@ -419,7 +419,7 @@ class C_mail extends CI_Controller {
                 <h4 class="modal-title">Compose Message</h4>
               </div>
               <div class="modal-body">
-                <form role="form" class="form-horizontal" action = "'.base_url().'c_mail/insertMail" id = "myForm" method = "post">
+                <form role="form" class="form-horizontal" action = "'.site_url().'c_mail/insertMail" id = "myForm" method = "post">
                     <div class="form-group">
                       <label class="col-sm-2" for="inputTo">To</label>
                       <div class="col-sm-10"><input type="email" class="form-control" name="recever" id="inputTo" placeholder="Ic Number"></div>
@@ -478,12 +478,12 @@ class C_mail extends CI_Controller {
 				);
 				$this->m_mail->updateTableHatta($arr , $arr2);	
 				$this->_showError("Done Active");
-				redirect(base_url().'c_mail');
+				redirect(site_url().'c_mail');
 				return false;				
 			}				
 		 }else{
 			 $this->_showError("Staff Access Only");
-			 redirect(base_url().'c_mail');
+			 redirect(site_url().'c_mail');
 		 }
 	 }
  }
