@@ -105,8 +105,6 @@ var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
 
 <body class="page page-id-161 page-template-default skin-default webkit not-ie default_width sidebar-none no-home no-touch">
 
-
-	
 	
 	<div id="body" class="clearfix"> 
 	
@@ -122,6 +120,71 @@ var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
 							<div class="page-inner clearfix">
 
 						<!-- page-title -->
+                                                <div class="section-header">
+                                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading" role="tab" id="headingOne">
+                                                                <h4 class="panel-title">
+                                                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                                        <h2 style="color:black"> Instruction </h2>
+                                                                    </a>
+                                                                </h4>
+                                                            </div>
+                                                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                                                                <div>
+                                                                    <div class="panel-body">
+                                                                        <div class="text-justify wow FadeInDown">  <!--start -->
+                                                                            <div class="row">
+                                                                                
+                                                                                <div class="row">
+                                            <div class="col-md-12">
+
+                                                Dear <b> &nbsp;<?= $this->session->userdata('firstname') ?>&nbsp;<?= $this->session->userdata('lastname')?></b>,<br><br>
+                                                To facilitate your dealings with DinarPal , you can use Cash Deposit Machine to enable you to deposit into your DinarPal account. Therefore, you can deposit to: <br><br>
+
+                                            </div>
+
+                                            <div class="col-md-6"> </div>
+                                            <div class="col-md-6"align ="center">
+
+                                                <table class="table" class="text-center">
+                                                    <tbody><tr class="success1">
+                                                        <th align="left" valign="top" class="text-center">Name</th>
+                                                        <th align="left" class="text-center">:</th>
+                                                        <td align="left" valign="top"class="text-center">Koperasi DinarPal Melaka Berhad</td>
+                                                    </tr>
+                                                    <tr class="success1">
+                                                        <th align="left" valign="top" class="text-center">Company Number</th>
+                                                        <th align="left" class="text-center">:</th>
+                                                        <td align="left" valign="top"class="text-center">M4-04-14 </td>
+                                                    </tr>
+                                                    <tr class="success1">
+                                                        <th align="left" valign="top" class="text-center">Bank</th>
+                                                        <th align="left" class="text-center">:</th>
+                                                        <td align="left" valign="top"class="text-center">Bank Islam Malaysia Berhad</td>
+                                                    </tr>
+                                                    <tr class="success1">
+                                                        <th align="left" valign="top" class="text-center"> Account Number </th>
+                                                        <th align="left" class="text-center">:</th>
+                                                        <td align="left" valign="top"class="text-center">04042010006119</td>
+                                                    </tr>
+
+                                                </tbody></table>
+
+                                            </div>
+                                            <div class="col-md-3"> </div>
+
+                                            <div class="col-md-12" align="center">
+                                                <br></br>
+
+                                                (Please upload the details of your <two style="font-weight: 900; color: red;"> deposit receipt </two>  after you make a deposit to the account above)
+
+
+                                            </div>
+                                        </div>
+                                                                                
+                                                                                <br>
+                                                                                </br>
 
 <h2>Upload File</h2>
 			<!-- /page-title -->
@@ -151,9 +214,9 @@ var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
 		Date<BR> <input type="text" id="datepicker" name="dates" ><BR><BR>
 
 		<input type="text" name="statuses" value="Progress" hidden>
-		Entering Fee<BR><input type="fee" name="Entering Fee" ><BR><BR>
-		Entering Share<BR><input type="available"  name="Entering Share" ><BR><BR>
-		Source File<BR><input type="file" name="source" ><BR><BR>
+		Entering Fee : MYR 100<BR><input type="checkbox" name="fee" value="Bike">Pay<br><BR>
+		Entering Share<BR><input type="text"name="Entering Share" placeholder="Please enter the unit of share. Eg: 3 "><BR><BR>
+		Upload Your Resit<BR><input type="file" name="source" ><BR><BR>
 
 <script>
   $(function() {

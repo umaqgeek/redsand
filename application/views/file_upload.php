@@ -18,6 +18,7 @@
   <th> ID </th>
   <th> Title Image </th>
   <th> FileName Image </th>
+  <th> hu </th>
   <th> Action </th>
  
  </tr>

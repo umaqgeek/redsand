@@ -20,12 +20,13 @@ class Member extends CI_Controller {
 			$crud->set_table("user_login"); 	
 			//$crud->set_theme('datatables');
 			//$crud->set_field_upload('id','user_name','user_email','user_password','name','user_level');
-			$crud->columns('id','user_name','user_email','user_password','name','user_level');
+			$crud->columns('id','user_name','user_email','user_password','name','phone','user_level');
 			$crud->display_as('id','Number')
 				 ->display_as('username','Username')
 				 ->display_as('user_email','Email')
 				 ->display_as('user_password','Password')
 				 ->display_as('name','Full Name')
+                                ->display_as('phone','phone')
 				 ->display_as('user_level','Level');
 			$crud->set_subject('Manage Member');
 			//$crud->set_relation('id','username','user_email','user_password','name','user_level');

@@ -205,10 +205,10 @@ class User_Authentication extends CI_Controller
 					$crud->set_theme('flexigrid');
 					$crud->required_fields('user_name','user_email','user_level','user_password');
 				
-	            	$crud->columns('status','active','firstname','middlename','lastname','gender','icnumber','user_email','state');
+	            	$crud->columns('status','active','firstname','middlename','lastname','gender','icnumber','phone','user_email','state');
 				//	$crud->unset_columns('user_name','user_email','user_password','user_level');
 				//  $crud->add_fields('firstname','middlename','lastname','gender','icnumber','phone');
-					$crud->edit_fields('user_name','user_password','user_email','user_level','firstname','middlename','lastname','gender','icnumber','street1','street2','district','postcode','state','country','firstnamew','middlenamew','lastnamew','icnumberw','emailw','street1w','street2w','districtw','postcodew','statew','countryw','any','statename','status','active');
+					$crud->edit_fields('user_name','user_password','user_email','user_level','firstname','middlename','lastname','gender','icnumber','phone','street1','street2','district','postcode','state','country','firstnamew','middlenamew','lastnamew','icnumberw','emailw','street1w','street2w','districtw','postcodew','statew','countryw','any','statename','status','active');
 					$crud->display_as('id_login','ID')
 				    	 ->display_as('user_name','IC Number')
 				    	 ->display_as('user_email','Email')
@@ -217,6 +217,7 @@ class User_Authentication extends CI_Controller
 				    	 ->display_as('middlename','Middle Name')
 				    	 ->display_as('lastname','Last Name')
 			             ->display_as('icnumber','IC Number')
+                                         ->display_as('phone','Phone')
 				    	 ->display_as('gender','Gender')
 				    	 ->display_as('phone','Phone')
 				    	 ->display_as('date','Date')
@@ -362,7 +363,7 @@ class User_Authentication extends CI_Controller
 						 ->display_as('fee', 'Fee')
 						 ->display_as('available','Share')
 						 ->display_as('source','Source');
-				        $crud->set_relation('loginID','user_login','fee');
+				        $crud->set_relation('loginID','user_login','id_login');
 					$crud->order_by('id','desc');
 					//$crud->edit_fields('fee','bonus')
 					

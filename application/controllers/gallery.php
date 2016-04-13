@@ -185,7 +185,7 @@ class Gallery extends CI_Controller
 		  	//print_r($sess['logged_in']); die();
 		  	
 		  	$username = $sess['logged_in']['username'];
-		  	$fee = $_POST['Entering_Fee'];
+		  	$fee = $config['Entering_Fee'];
 		  	$available = $_POST['Entering_Share'];
 		  
 		  	if(empty($_POST['reference']) || empty($_POST['dates']))
