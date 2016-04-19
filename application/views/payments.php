@@ -209,8 +209,8 @@ var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
 		Date<BR> <input type="text" id="datepicker" name="dates" ><BR><BR>
 
 		<input type="text" name="statuses" value="Progress" hidden>
-		Entering Fee : MYR 100<BR><input type="checkbox" name="fee" value="Bike">Pay<br><BR>
-		Entering Share<BR><input type="text"name="Entering Share" placeholder="Please enter the unit of share. Eg: 3 "><BR><BR>
+		Entering Fee : MYR 100<BR><input type="checkbox" name="fee" value="1">Pay<br><BR>
+		Entering Share<BR><input type="text"name="Entering_Share" placeholder="Please enter the unit of share. Eg: 3 "><BR><BR>
 		Upload Your Resit<BR><input type="file" name="source" ><BR><BR>
 		
 <script>

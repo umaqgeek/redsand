@@ -37,6 +37,8 @@ class Gallery extends CI_Controller
 	    { 
 		    $this->load->model('login_database');
 			$result = $this->login_database->retrive($data);
+                        
+//                        echo $result[0]->user_level; die();
 
 			if($result[0]->user_level == '0')
 			{
@@ -180,27 +182,45 @@ class Gallery extends CI_Controller
 			$msg = "";
 		  	$filename = 'source';
 		  	
-		  	//print_r($_POST); die();
+//		  	print_r($_POST); die();
 		  	$sess = $this->session->all_userdata();
 		  	//print_r($sess['logged_in']); die();
 		  	
 		  	$username = $sess['logged_in']['username'];
-		  	$fee = $config['Entering_Fee'];
-		  	$available = $_POST['Entering_Share'];
+		  	$fee = (isset($_POST['fee']) && !empty($_POST['fee'])) ? (100) : (-1);
+                        
+                        if ($fee == -1)
+                        {
+                            $status="error";
+                            $data['message_display'] = "<script>alert('Plese tick the entering fee!')</script>";
+                            $this->load->view('payments',$data);
+                        }
+                        
+		  	$available = (isset($_POST['Entering_Share']) && !empty($_POST['Entering_Share'])) ? ($_POST['Entering_Share']) : (0);
+                        $available = $available * 1000;
+                        
+                        if ($available == 0)
+                        {
+                            $status="error";
+                            $data['message_display'] = "<script>alert('Please enter a valid entering share!')</script>";
+                            $this->load->view('payments',$data);
+                        }
 		  
 		  	if(empty($_POST['reference']) || empty($_POST['dates']))
 		  	{
 				$status="error";
 			 	$data['message_display'] = "<script>alert('Plese enter title or date')</script>";
-		     	$this->load->view('payments',$data);
+                                $this->load->view('payments',$data);
 		  	}
+                        
+//                        die();
 		  
 		  	if($status != "error")
 		  	{
 				$config['upload_path']   = './file/';
 				$config['allowed_types'] = 'gif|jpg|jpeg|png|jpe|bmp|tif|tiff|JPG|JPEG|JPE|PNG|BMP|GIF|TIF|TIFF';
-		        $config['max_size']      = '120';
-		        $config['encrypt_name']  = true; 
+                                $config['max_size']      = '120000';
+                                $config['encrypt_name']  = true; 
 				
 				$this->load->library('upload',$config);
 				$this->upload->initialize($config);

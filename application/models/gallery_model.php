@@ -43,6 +43,10 @@ class gallery_model extends CI_Model {
       	}
 	      return $d;
     }
+    
+    function deletePayproofID($id) {
+        return $this->db->where('id', $id)->delete('payproof');
+    }
 
     function view_by()
     {

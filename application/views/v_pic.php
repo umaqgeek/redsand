@@ -159,7 +159,7 @@ width:500px;
 height:300px;
 padding: 10px;
 background:#eae9d4;
--webkit-box-shadow: 0 0 20px rgba(0,0,0, .75));
+-webkit-box-shadow: 0 0 20px rgba(0,0,0, .75);
 -moz-box-shadow: 0 0 20px rgba(0,0,0, .75);
 box-shadow: 0 0 20px rgba(0,0,0, .75);
 -webkit-border-radius: 8px;
@@ -204,10 +204,13 @@ padding-bottom:20px;
       <th>Status</th>
       <th>Fee</th>
       <th>Share</th>
+      <th>Total</th>
       <th>Picture Name</th>
       <th>Picture </th>
+      <th>Action </th>
     </tr>
     <?php foreach($pic as $v) {
+//        print_r($v);
     ?>
         <tr class="">
         	
@@ -216,9 +219,20 @@ padding-bottom:20px;
 	        <td><?php echo $v->statuses; ?></td>
 	        <td><?php echo $v->fee; ?></td>
 	        <td><?php echo $v->available; ?></td>
+	        <td><?php echo $v->fee+$v->available; ?></td>
 	        <td><?php echo $v->source; ?></td>
-	        <td><div class="Enlarge"><img style="width:150px; height:150px;" src="<?php echo base_url('file/'.$v->source) ?>">
-	        	<span><img style="width:500px; height:300px;" src="<?php echo base_url('file/'.$v->source) ?>"></span></div></td>
+	        <td>
+                    <div class="Enlarge"><img style="width:150px; height:150px;" src="<?php echo base_url('file/'.$v->source) ?>">
+	        	<span>
+                            <img style="width:500px; height:300px;" src="<?php echo base_url('file/'.$v->source) ?>">
+                        </span>
+                    </div>
+                </td>
+                <td>
+                    <a href="<?=site_url('main/user/14?id='.$v->id.'&action=delete'); ?>">
+                        <span class="fa fa-remove">Delete</span>
+                    </a>
+                </td>
 	       
         </tr>
       <?php }?>

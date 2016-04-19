@@ -145,7 +145,14 @@ class User_Authentication extends CI_Controller
 
 	public function viewPic() 
 	{  	
-	   		$this->load->model('gallery_model');
+            $this->load->model('gallery_model');
+            
+            if ($this->input->get('id') && $this->input->get('action')=='delete') {
+                $id = $this->input->get('id');
+                $this->gallery_model->deletePayproofID($id);
+                redirect(site_url('main/user/14'));
+            }
+	   		
 
 			$logged_in = $this->session->userdata('logged_in');
 			$username = $logged_in['username'];
