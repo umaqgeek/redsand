@@ -76,6 +76,19 @@ Class Login_Database extends CI_Model {
             return false;
         }
     }
+    
+    public function view_by_username($user_name) {
+        $this->db->select('*');
+        $this->db->from('user_login');
+        $this->db->where('user_name', $user_name);
+        $query = $this->db->get();
+        if ($query->num_rows() > 0) {
+            foreach ($query->result() as $r) {
+                $d[] = $r;
+            }
+            return $d;
+        }
+    }
 
     public function update_status() {
         $email = $this->input->get('email');
