@@ -141,6 +141,7 @@ class Main extends CI_Controller {
 			 <li class="page_item page-item-409 page_item_has_children"><a href="' . site_url() . 'main/user/9"><B>PROFILE</B></a>
      <ul class="children">
      <li class="page_item page-item-1096"><a href="' . site_url() . 'main/user/6">View Account</a></li>
+          <li class="page_item page-item-1096"><a href="' . site_url() . 'main/user/16">Change Password</a></li>
        
      </ul>
      </li> 
@@ -201,6 +202,7 @@ class Main extends CI_Controller {
 			 <li class="page_item page-item-409 page_item_has_children"><a href="' . site_url() . 'main/user/9"><B>PROFILE</B></a>
      <ul class="children">
      <li class="page_item page-item-1096"><a href="' . site_url() . 'main/user/6">View Account</a></li>
+          <li class="page_item page-item-1096"><a href="' . site_url() . 'main/user/16">Change Password</a></li>
        
      </ul>
      </li> 
@@ -374,9 +376,12 @@ class Main extends CI_Controller {
                 break;
             case '15' : $hatta->edit();
                 break;
+            case '16' : $hatta->changePassword();
+                break;
         }
 
 
+        
         $this->load->view("footer", $data);
     }
 

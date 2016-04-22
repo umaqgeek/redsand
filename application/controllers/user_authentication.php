@@ -1089,5 +1089,11 @@ class User_Authentication extends CI_Controller
 		 		redirect("/main/loginPage/1");
 		 		return false;
 	 		} 
+                        
+                        public function changePassword()
+	{ 
+	 	$this->load->view('changePassword');
+		}
 }
+
 ?>

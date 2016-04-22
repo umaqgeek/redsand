@@ -60,8 +60,9 @@ class Userinfo extends CI_Controller
 	    $this->table->set_heading(
 	    	anchor('userinfo/index/'.$offset.'/id_login/'.$new_order, 'ID'),
 	    	anchor('userinfo/index/'.$offset.'/status/'.$new_order, 'Status'),
-	    	anchor('userinfo/index/').$offset.'/firstname/'.$new_order, 'First Name'),
-	    	'Action'
+	    	anchor('userinfo/index/'.$offset.'/firstname/'.$new_order, 'First Name'),
+                'Action'
+	    	
 	    	);
 		$i = 0 + $offset;
 		foreach($persona as $person)
