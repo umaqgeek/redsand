@@ -9,7 +9,7 @@
 <!-- wp_header -->
 <script>document.documentElement.className += " js";</script>
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Dinarpal Coop admin</title>
+<title>KODINAR</title>
 <meta name="robots" content="noindex,follow"/>
 <link rel="canonical" href="http://themify.me/demo/themes/postline/map/" />
 <!-- / Yoast WordPress SEO plugin. -->

@@ -335,23 +335,14 @@ echo "</div>";
 
 
 
-IC Number : <BR>
-
+<BR>IC Number : <BR>
 <input type="text" value="<?php echo $username ?>" disabled> 
 <input type="text" name="username" id="username" value="<?php echo $username ?>" hidden>
 <BR> <BR>
 
-Email : <BR>
+<BR> Email : <BR>
 <input type="email" value="<?php echo $email ?>"  disabled>  
 <input type="email" name="email" id="email" value="<?php echo $email ?>"  hidden> <BR> <BR>
-
-Password : <BR>
-<input type="password" name="pwd1" id="password" placeholder="Please enter your password. Eg: p@ssw0rD"  > <BR> <BR>
-
-Re-enter Password : <BR>
-<input type="password" name="pwd2" id="password"  placeholder="Please re-enter your password. Eg: p@ssw0rD"  > <BR> <BR><BR>
-
-
 <BR>
 
 </B>					
@@ -360,9 +351,6 @@ Re-enter Password : <BR>
 			<!-- /page-title -->
 			<div class="page-content entry-content" itemprop="articleBody">
 		
-</div>
-
-<div class="shortcode col3-1" style=" width:100%" > <BR>
 <B>
 
 <h2>Profile Information</h2>   
@@ -374,7 +362,8 @@ Re-enter Password : <BR>
 <input type="text" id="middlename" name="middlename" placeholder="Middle name" value="<?php echo $middlename ?>" onblur="myFunction()"><BR><BR>
 <input type="text" id="lastname" name="lastname" placeholder="Last name" value="<?php echo $lastname ?>" onblur="myFunction()">  <BR>
                 
-<BR>IC Number : <BR> <input type="text" id="icnumber" name="icnumber" placeholder="Please enter your IC Number. Eg: 9211026018922" value="<?php echo $icnumber ?>" > <BR><BR>
+<BR>IC Number : <BR> <input type="text" value="<?php echo $username ?>" disabled> 
+<input type="text" name="username" id="username" value="<?php echo $username ?>" hidden><BR><BR>
 <div class = "form-group">
     <img src="<?php echo base_url(); ?>assets/uploads/profile/<?php echo $user_image; ?>" width="150" height="150" class="img-rounded img-polaroid" />
 
@@ -471,7 +460,7 @@ Address: <BR>
 echo form_close();
 ?>    
  <BR><BR><BR>       
-</div>
+
 
 
  

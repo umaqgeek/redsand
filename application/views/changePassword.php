@@ -193,7 +193,7 @@
                             
 						<!-- page-title -->
 			<!-- <h2 class="page-title" itemprop="name">Welcome to DinarPal Co-Operative</h2>-->
-<h2>Log In</h2>
+<h2>Change Password</h2>
 				<BR>
 			<!-- /page-title -->
 
@@ -212,7 +212,7 @@ echo $message_display;
 echo "</div>";
 }
 ?>
-<?php echo form_open('user_authentication/user_login_process'); ?>
+
 <?php
 echo "<div class='error_msg'>";
 if (isset($error_message)) {
@@ -222,29 +222,18 @@ echo validation_errors();
 echo "</div>";
 ?>
 
-<div class="shortcode col3-1" style=" width:100%" >
-<B>
-IC Number  : <BR>
-<input type="text" name="username" id="username" placeholder="Please enter your IC Number. Eg: 9211026018922" onkeypress="return isNumberKey(event)" maxlength="12"required /> <BR><BR>
+Password : <BR>
+<input type="password" name="pwd1" id="password" placeholder="Please enter your password. Eg: p@ssw0rD"  > <BR> <BR>
 
-Password  : <BR>
-  <input type="password" name="password" id="password" placeholder="Please enter your password. Eg: p@ssw0rD"  required /> <BR><BR>
-  <link href="<?php echo base_url().'assets/css/button.css' ?>" rel="stylesheet"><button type="submit" class="button " data-toggle="modal" value=" Log In " name="submit" >Log In</button></link><!--<input type="submit" value=" Log In " name="submit" />--> 
-  <link href="<?php echo base_url().'assets/css/button.css' ?>" rel="stylesheet"><button type="reset" class="button " data-toggle="modal" value=" Reset " name="reset" >Reset</button></link><!--<input type="reset" value=" Reset " name="reset"/>-->
-  
-  
-<BR><BR>
-Please type your IC Number and Password
-<BR><BR>
- <?php echo anchor('main/registerPage','Create Account'); ?> &nbsp;&nbsp;&nbsp;
- <?php echo anchor('main/forgotPassword','Forgot Password?'); ?> &nbsp;&nbsp;&nbsp;
-<BR><BR>
-</div>
+Re-enter Password : <BR>
+<input type="password" name="pwd2" id="password"  placeholder="Please re-enter your password. Eg: p@ssw0rD"  > <BR> <BR><BR>
 
-<?php echo form_close(); ?>
-<BR><BR><BR>
-<div id="themify_builder_content-161" data-postid="161" class="themify_builder_content themify_builder_content-161 themify_builder themify_builder_front">
-</div>
+<link href="<?php echo base_url().'assets/css/button.css' ?>" rel="stylesheet"><button type="submit" class="button " data-toggle="modal" name="Update">Update</button></link>
+
+<?php 
+echo form_close();
+?>    
+ <BR><BR><BR> 
 <!-- /themify_builder_content -->				
 								
 								
