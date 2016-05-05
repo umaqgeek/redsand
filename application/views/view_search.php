@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>css/back.css" media="screen" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/button.css" media="screen" charset="utf-8">
 <BR /><BR /><BR />
 <div id="top" style="margin:0 auto"></div>
 

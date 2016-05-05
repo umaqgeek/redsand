@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Sistem Pengurusan File</title>
 
-<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>css/back.css" media="screen" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/button.css" media="screen" charset="utf-8">
 </head>
 
 <body>

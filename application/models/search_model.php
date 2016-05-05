@@ -458,23 +458,14 @@ class Search_model extends CI_Model
                 return $query->result();
 		
 	}
-
-
-
-
-
-	
-	
-	
-		
-
-    function search($keyword)
-    {
+        
+        function search($keyword)
+       {
         $this->db->like('title',$keyword);
 		$this->db->or_like('id',$keyword);
         $query  =   $this->db->get('file');
         return $query->result();
-    }
+     }
 }   
 
 ?>

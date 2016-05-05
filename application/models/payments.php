@@ -30,7 +30,7 @@
 <link rel='stylesheet' id='themify-animate-css'  href='http://themify.me/demo/themes/postline/wp-content/themes/postline/themify/themify-builder/css/animate.min.css?ver=2.1.8' type='text/css' media='all' />
 -->
 <!--  design  -->
-<link rel='stylesheet' id='theme-style-css'  href='<?php echo base_url(); ?>css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='<?php echo base_url(); ?>assets/css/button.css' type='text/css' media='all' />
 <!--  responsive  -->
 <link rel='stylesheet' id='themify-media-queries-css'  href='<?php echo base_url(); ?>css/media-queries.css' type='text/css' media='all' />
 

@@ -193,6 +193,45 @@ Class Login_Database extends CI_Model {
             return false;
         }
     }
+    
+    public function changePassword($data) {
+        $condition = "user_password =" . "'" . $data['password'] . "' AND " . "user_password =" . "'" . $data['password'] . "'";
+
+        $this->db->select('*');
+        $this->db->from('user_login');
+        $this->db->where($condition);
+        $this->db->limit(1);
+
+        $query = $this->db->get();
+
+        if ($query->num_rows() == 1) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    
+    public function changePass($sess_array) {
+        $condition = "user_password =" . "'" . $sess_array['password'] . "'";
+
+        $this->db->select('*');
+        $this->db->from('user_login');
+        $this->db->where($condition);
+        $this->db->limit(1);
+
+        $query = $this->db->get();
+
+        if ($query->num_rows() == 1) {
+            return $query->result();
+        } else {
+            return false;
+        }
+    }
+    
+    /*function changePassword($userPassword, $data) {
+        $this->db->where('user_password', $userPassword);
+        $this->db->update('user_login', $data);
+    }*/
 
 }
 
