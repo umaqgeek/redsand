@@ -856,11 +856,15 @@ class User_Authentication extends CI_Controller
 		 
 		    $this->email->initialize($config);
 		    $this->email->from('admin@dinarpal.coop','KODINAR');
-	        $this->email->to($this->input->post('email'));
+//	        $this->email->to($this->input->post('email'));
+                    $to = $this->input->post('email');
 	        $this->email->subject('Account Activation from Dinarpal Coop : Continuous Imapression');
+                $subj = 'Account Activation from Dinarpal Coop : Continuous Imapression';
 	        $this->email->message('<BR><BR> Thanks for signing up! <BR><BR> Your account has been created, you can login with the following credentials after you have activated your account by pressing the url below. <BR><BR> Please click this link to activate your account: <a href='.site_url('user_authentication/verify').'?email='.$email.'&> Click Here to activate your account </a><BR> <BR><BR> Your IC Number : <B>'.$username.'</B> <BR><BR> Your Password : <B>'.$password.' </B> <BR><BR> Best of luck for You ');
-	            
-	        $this->email->send();
+	            $msg = '<BR><BR> Thanks for signing up! <BR><BR> Your account has been created, you can login with the following credentials after you have activated your account by pressing the url below. <BR><BR> Please click this link to activate your account: <a href='.site_url('user_authentication/verify').'?email='.$email.'&> Click Here to activate your account </a><BR> <BR><BR> Your IC Number : <B>'.$username.'</B> <BR><BR> Your Password : <B>'.$password.' </B> <BR><BR> Best of luck for You ';
+//	        $this->email->send();
+                
+                $this->my_func->send_email($to, $subj, $msg);
 
 	           
 		    $this->session->set_flashdata('registered','Now you can login and Please check in your <B>'.$email.'</B> email account');

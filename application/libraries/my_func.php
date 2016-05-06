@@ -420,5 +420,59 @@ class My_Func {
         public function getNoImage($type=-1) {
             return "NoImageAvailable.png";
         }
+        
+        public function get_config_email() {
+            /*
+            $config = Array(
+                'protocol' => 'smtp',
+                'smtp_host' => 'webmail.dinarpal.com',
+                'smtp_port' => 25,
+                'smtp_user' => 'support@dinarpal.com',
+                'smtp_pass' => '#@!321Cba',
+                'mailtype'  => 'html', 
+                'charset'   => 'iso-8859-1'
+            );
+            //*/
+            //*
+            $config = Array(
+                'protocol' => 'smtp',
+                'smtp_host' => 'ssl://smtp.googlemail.com',
+                'smtp_port' => 465,
+                'smtp_user' => 'umar@tuffah.info',
+                'smtp_pass' => 'kalimas123',
+                'mailtype'  => 'html', 
+                'charset'   => 'iso-8859-1'
+            );
+            //*/
+            /*
+            $config = Array(
+                'protocol' => 'smtp',
+                'smtp_host' => 'ssl://smtp.googlemail.com',
+                'smtp_port' => 465,
+                'smtp_user' => 'umaqgeek@gmail.com',
+                'smtp_pass' => '#@!321Cba',
+                'mailtype'  => 'html', 
+                'charset'   => 'iso-8859-1'
+            );
+            //*/
+            return $config;
+        }
+        
+        public function send_email($to, $subj, $msg) {
+            $CI = $this->obj;
+            $config = $this->get_config_email();
+//            $CI->email->initialize($config);
+            $CI->load->library('email', $config);
+            $CI->email->from('admin@dinarpal.coop','KODINAR');
+            $CI->email->to($to);
+            $CI->email->subject($subj);
+            $CI->email->message($msg);
+            if(!$CI->email->send()) {
+                    print_r($CI->email->print_debugger());
+                    return false;
+            } else {
+                    return true;
+            }
+        }
 }
 ?>
